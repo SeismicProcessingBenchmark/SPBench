@@ -9,27 +9,28 @@ interface Props {
 export default function OverviewPage({ data }: Props) {
   const { t } = useLanguage();
 
-  const stats = useMemo(() => ({
-    methods: data.models.length,
-    datasets: data.benchmarks.length,
-    papers: data.papers.length,
-    results: data.results.length,
-  }), [data]);
+  const stats = useMemo(() => ([
+    { icon: '🧠', value: data.models.length, label: t.overview.statsMethods },
+    { icon: '🗂️', value: data.benchmarks.length, label: t.overview.statsBenchmarks },
+    { icon: '📄', value: data.papers.length, label: t.overview.statsPapers },
+    { icon: '📊', value: data.results.length, label: t.overview.statsResults },
+  ]), [data, t]);
 
   const milestones = [
-    { year: '2026.04.11', text: t.overview.milestone1 },
-    { year: '2026.05.28', text: t.overview.milestone2 },
+    { icon: '🌱', year: '2026.04.11', text: t.overview.milestone1 },
+    { icon: '🎉', year: '2026.05.28', text: t.overview.milestone2 },
   ];
 
   const futurePlans = [
-    t.overview.future1,
-    t.overview.future2,
-    t.overview.future3,
+    { icon: '🎯', text: t.overview.future1 },
+    { icon: '🤖', text: t.overview.future2 },
+    { icon: '🌍', text: t.overview.future3 },
   ];
 
   return (
     <div>
-      <div className="page-header">
+      <div className="page-header" style={{ display: 'flex', alignItems: 'center', gap: 'var(--space-4)' }}>
+        <span className="card-icon" style={{ width: 56, height: 56, fontSize: '1.9rem' }} aria-hidden="true">📈</span>
         <div>
           <h1>{t.overview.title}</h1>
           <p className="lede">{t.overview.subtitle}</p>
@@ -38,45 +39,23 @@ export default function OverviewPage({ data }: Props) {
 
       {/* Stats Cards */}
       <div className="grid cols-4" style={{ marginBottom: 'var(--space-6)' }}>
-        <div className="card" style={{ textAlign: 'center' }}>
-          <div style={{ fontSize: '2.5rem', fontWeight: 700, color: 'var(--accent)', fontFamily: 'var(--mono)' }}>
-            {stats.methods}
+        {stats.map((s) => (
+          <div key={s.label} className="card stat-card">
+            <span className="stat-icon" aria-hidden="true">{s.icon}</span>
+            <div className="stat-value">{s.value}</div>
+            <div className="stat-label">{s.label}</div>
           </div>
-          <div style={{ color: 'var(--text-muted)', fontSize: '0.9rem', marginTop: 'var(--space-2)' }}>
-            {t.overview.statsMethods}
-          </div>
-        </div>
-        <div className="card" style={{ textAlign: 'center' }}>
-          <div style={{ fontSize: '2.5rem', fontWeight: 700, color: 'var(--accent)', fontFamily: 'var(--mono)' }}>
-            {stats.datasets}
-          </div>
-          <div style={{ color: 'var(--text-muted)', fontSize: '0.9rem', marginTop: 'var(--space-2)' }}>
-            {t.overview.statsBenchmarks}
-          </div>
-        </div>
-        <div className="card" style={{ textAlign: 'center' }}>
-          <div style={{ fontSize: '2.5rem', fontWeight: 700, color: 'var(--accent)', fontFamily: 'var(--mono)' }}>
-            {stats.papers}
-          </div>
-          <div style={{ color: 'var(--text-muted)', fontSize: '0.9rem', marginTop: 'var(--space-2)' }}>
-            {t.overview.statsPapers}
-          </div>
-        </div>
-        <div className="card" style={{ textAlign: 'center' }}>
-          <div style={{ fontSize: '2.5rem', fontWeight: 700, color: 'var(--accent)', fontFamily: 'var(--mono)' }}>
-            {stats.results}
-          </div>
-          <div style={{ color: 'var(--text-muted)', fontSize: '0.9rem', marginTop: 'var(--space-2)' }}>
-            {t.overview.statsResults}
-          </div>
-        </div>
+        ))}
       </div>
 
       {/* About Section */}
-      <div className="section-title">
-        <h2>{t.overview.aboutTitle}</h2>
-      </div>
       <div className="card">
+        <div className="card-header">
+          <span className="card-icon">💡</span>
+          <div>
+            <div className="card-title">{t.overview.aboutTitle}</div>
+          </div>
+        </div>
         <div className="card-body">
           <p style={{ marginBottom: 'var(--space-3)' }}>{t.overview.aboutText1}</p>
           <p>{t.overview.aboutText2}</p>
@@ -96,7 +75,7 @@ export default function OverviewPage({ data }: Props) {
             {milestones.map((m, i) => (
               <div key={i} className="dl-row">
                 <span className="dl-label" style={{ fontFamily: 'var(--mono)', color: 'var(--accent-dark)', flexShrink: 0 }}>{m.year}</span>
-                <span>{m.text}</span>
+                <span><span aria-hidden="true" style={{ marginRight: 'var(--space-2)' }}>{m.icon}</span>{m.text}</span>
               </div>
             ))}
           </div>
@@ -113,7 +92,7 @@ export default function OverviewPage({ data }: Props) {
             {futurePlans.map((plan, i) => (
               <div key={i} style={{ display: 'flex', gap: 'var(--space-3)', alignItems: 'flex-start', marginBottom: 'var(--space-3)' }}>
                 <span style={{ color: 'var(--accent)', fontWeight: 700, fontFamily: 'var(--mono)' }}>{i + 1}.</span>
-                <span>{plan}</span>
+                <span><span aria-hidden="true" style={{ marginRight: 'var(--space-2)' }}>{plan.icon}</span>{plan.text}</span>
               </div>
             ))}
           </div>

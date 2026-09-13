@@ -156,7 +156,7 @@
       "coherent_noise_suppression"
     ],
     "description": "Residual convolutional denoiser for ground-roll noise prediction.",
-    "paper_url": "https://doi.org/10.1190/geo2018-0668.1",
+    "paper_url": null,
     "code_url": null,
     "weights_url": null,
     "is_open_source": true,
@@ -174,7 +174,7 @@
       "interpolation"
     ],
     "description": "Residual convolutional neural network baseline for seismic trace interpolation and missing trace reconstruction.",
-    "paper_url": "https://doi.org/10.1190/geo2018-0668.1",
+    "paper_url": null,
     "code_url": null,
     "weights_url": null,
     "is_open_source": true,
@@ -192,7 +192,7 @@
       "random_noise_suppression"
     ],
     "description": "DnCNN baseline for synthetic random-noise suppression.",
-    "paper_url": "https://doi.org/10.1190/geo2018-0668.1",
+    "paper_url": null,
     "code_url": null,
     "weights_url": null,
     "is_open_source": true,
@@ -210,7 +210,7 @@
       "first_arrival_picking"
     ],
     "description": "DnCNN-style convolutional segmentation baseline for first-break picking, modified from residual denoising to direct binary step-mask logits prediction.",
-    "paper_url": "https://doi.org/10.1190/geo2018-0668.1",
+    "paper_url": null,
     "code_url": null,
     "weights_url": null,
     "weights_urls": null,
@@ -337,7 +337,7 @@
       "random_noise_suppression"
     ],
     "description": "Quadratic U-Net baseline for synthetic random-noise suppression.",
-    "paper_url": "https://doi.org/10.1190/geo2024-0019.1",
+    "paper_url": null,
     "code_url": null,
     "weights_url": null,
     "is_open_source": true,
@@ -613,7 +613,7 @@
       "multiples_attenuation"
     ],
     "description": "Residual convolutional denoiser adapted to predict marine multiple wavefields.",
-    "paper_url": "https://doi.org/10.1190/geo2018-0668.1",
+    "paper_url": null,
     "code_url": null,
     "weights_url": null,
     "weights_urls": {},
@@ -951,7 +951,7 @@
       "interpolation"
     ],
     "description": "DnCNN-L model used in the user-provided Interpolation seismic interpolation evaluation.",
-    "paper_url": "https://doi.org/10.1190/geo2018-0668.1",
+    "paper_url": null,
     "code_url": null,
     "weights_url": null,
     "is_open_source": true,
@@ -1095,7 +1095,7 @@
       "interpolation"
     ],
     "description": "DnCNN-L model used in the user-provided AVO seismic interpolation evaluation.",
-    "paper_url": "https://doi.org/10.1190/geo2018-0668.1",
+    "paper_url": null,
     "code_url": null,
     "weights_url": null,
     "is_open_source": true,
@@ -1113,7 +1113,7 @@
       "interpolation"
     ],
     "description": "Residual convolutional neural network baseline for seismic trace interpolation and missing trace reconstruction.",
-    "paper_url": "https://doi.org/10.1190/geo2018-0668.1",
+    "paper_url": null,
     "code_url": null,
     "weights_url": null,
     "is_open_source": true,
@@ -1241,7 +1241,7 @@
       "deblending"
     ],
     "description": "Geophysical DnCNN baseline for blending noise suppression.",
-    "paper_url": "https://doi.org/10.1190/geo2018-0668.1",
+    "paper_url": null,
     "code_url": null,
     "weights_url": null,
     "weights_urls": {},
@@ -1381,7 +1381,7 @@
       "deblending"
     ],
     "description": "Geophysical DnCNN baseline for blending noise suppression avo.",
-    "paper_url": "https://doi.org/10.1190/geo2018-0668.1",
+    "paper_url": null,
     "code_url": null,
     "weights_url": null,
     "weights_urls": {},
@@ -1401,7 +1401,7 @@
       "deblending"
     ],
     "description": "QUNet baseline for blending noise suppression avo.",
-    "paper_url": "https://doi.org/10.1190/geo2024-0019.1",
+    "paper_url": null,
     "code_url": null,
     "weights_url": null,
     "weights_urls": {},
@@ -1561,7 +1561,7 @@
       "deblending"
     ],
     "description": "QUNet baseline for common-receiver blending-noise suppression.",
-    "paper_url": "https://doi.org/10.1190/geo2024-0019.1",
+    "paper_url": null,
     "code_url": null,
     "weights_url": null,
     "weights_urls": {},
