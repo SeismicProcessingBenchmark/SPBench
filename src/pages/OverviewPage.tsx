@@ -34,6 +34,14 @@ export default function OverviewPage({ data }: Props) {
         <div>
           <h1>{t.overview.title}</h1>
           <p className="lede">{t.overview.subtitle}</p>
+          <div style={{ display: 'flex', gap: 'var(--space-3)', marginTop: 'var(--space-4)', flexWrap: 'wrap' }}>
+            <a className="btn btn-primary btn-icon" href="https://github.com/SeismicProcessingBenchmark/SPBench-Code" target="_blank" rel="noopener noreferrer">
+              <span aria-hidden="true">💻</span> {t.overview.codeLink}
+            </a>
+            <a className="btn btn-icon" href="https://huggingface.co/SPBench/SPBench-Model" target="_blank" rel="noopener noreferrer">
+              <span aria-hidden="true">🤗</span> {t.overview.modelLink}
+            </a>
+          </div>
         </div>
       </div>
 

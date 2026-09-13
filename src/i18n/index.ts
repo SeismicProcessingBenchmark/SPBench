@@ -31,6 +31,8 @@ const translations = {
       statsBenchmarks: 'Benchmarks',
       statsPapers: 'Papers',
       statsResults: 'Results',
+      codeLink: 'Code',
+      modelLink: 'Models & Data',
     },
     leaderboard: {
       title: 'Leaderboard',
@@ -155,6 +157,8 @@ const translations = {
       statsBenchmarks: '基准测试数',
       statsPapers: '论文数',
       statsResults: '结果数',
+      codeLink: '代码',
+      modelLink: '模型与数据',
     },
     leaderboard: {
       title: '排行榜',
