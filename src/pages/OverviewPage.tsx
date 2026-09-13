@@ -53,11 +53,18 @@ export default function OverviewPage({ data }: Props) {
             <div className="card-title">{t.overview.figureTitle}</div>
           </div>
         </div>
-        <div className="card-body">
+        <div className="card-body" style={{ display: 'flex', justifyContent: 'center' }}>
           <img
             src={`${import.meta.env.BASE_URL}images/overview.jpg`}
             alt={t.overview.figureTitle}
-            style={{ width: '100%', height: 'auto', borderRadius: 'var(--radius-sm)', border: '1px solid var(--border)' }}
+            style={{
+              width: '100%',
+              maxWidth: 860,
+              height: 'auto',
+              borderRadius: 'var(--radius-sm)',
+              border: '1px solid var(--border)',
+              boxShadow: '0 4px 24px rgba(15, 45, 40, 0.10)',
+            }}
           />
         </div>
       </div>
