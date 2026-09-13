@@ -45,6 +45,23 @@ export default function OverviewPage({ data }: Props) {
         </div>
       </div>
 
+      {/* Framework Figure */}
+      <div className="card" style={{ marginBottom: 'var(--space-6)' }}>
+        <div className="card-header">
+          <span className="card-icon">🗺️</span>
+          <div>
+            <div className="card-title">{t.overview.figureTitle}</div>
+          </div>
+        </div>
+        <div className="card-body">
+          <img
+            src={`${import.meta.env.BASE_URL}images/overview.jpg`}
+            alt={t.overview.figureTitle}
+            style={{ width: '100%', height: 'auto', borderRadius: 'var(--radius-sm)', border: '1px solid var(--border)' }}
+          />
+        </div>
+      </div>
+
       {/* Stats Cards */}
       <div className="grid cols-4" style={{ marginBottom: 'var(--space-6)' }}>
         {stats.map((s) => (

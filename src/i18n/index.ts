@@ -33,6 +33,7 @@ const translations = {
       statsResults: 'Results',
       codeLink: 'Code',
       modelLink: 'Models & Data',
+      figureTitle: 'SPBench Overview',
     },
     leaderboard: {
       title: 'Leaderboard',
@@ -159,6 +160,7 @@ const translations = {
       statsResults: '结果数',
       codeLink: '代码',
       modelLink: '模型与数据',
+      figureTitle: 'SPBench 概述',
     },
     leaderboard: {
       title: '排行榜',
