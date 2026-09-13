@@ -40,7 +40,7 @@
       "Synthetic"
     ],
     "citation": "https://wiki.seg.org/wiki/SEG_C3_45_shot",
-    "download_url": null,
+    "download_url": "https://huggingface.co/SPBench/SPBench-Model",
     "model_count": 12,
     "gallery": [
       "datasets/segc3-raw.png",
@@ -88,7 +88,7 @@
       "Synthetic"
     ],
     "citation": "https://wiki.seg.org/wiki/SEG_C3_45_shot",
-    "download_url": null,
+    "download_url": "https://huggingface.co/SPBench/SPBench-Model",
     "model_count": 12,
     "gallery": [
       "datasets/segc3-raw.png",
@@ -136,7 +136,7 @@
       "Synthetic"
     ],
     "citation": "https://wiki.seg.org/wiki/SEG_C3_45_shot",
-    "download_url": null,
+    "download_url": "https://huggingface.co/SPBench/SPBench-Model",
     "model_count": 12,
     "gallery": [
       "datasets/segc3-raw.png",
@@ -184,7 +184,7 @@
       "Synthetic"
     ],
     "citation": "https://wiki.seg.org/wiki/SEG_C3_45_shot",
-    "download_url": null,
+    "download_url": "https://huggingface.co/SPBench/SPBench-Model",
     "model_count": 12,
     "gallery": [
       "datasets/segc3-raw.png",
@@ -232,7 +232,7 @@
       "Synthetic"
     ],
     "citation": "https://wiki.seg.org/wiki/SEG_C3_45_shot",
-    "download_url": null,
+    "download_url": "https://huggingface.co/SPBench/SPBench-Model",
     "model_count": 12,
     "gallery": [
       "datasets/segc3-raw.png",
@@ -280,7 +280,7 @@
       "Synthetic"
     ],
     "citation": "https://wiki.seg.org/wiki/C3",
-    "download_url": null,
+    "download_url": "https://huggingface.co/SPBench/SPBench-Model",
     "model_count": 11,
     "group_name": "SEGC3 Random Noise",
     "gallery": [
@@ -329,7 +329,7 @@
       "Synthetic"
     ],
     "citation": "https://wiki.seg.org/wiki/C3",
-    "download_url": null,
+    "download_url": "https://huggingface.co/SPBench/SPBench-Model",
     "model_count": 11,
     "group_name": "SEGC3 Random Noise",
     "gallery": [
@@ -378,7 +378,7 @@
       "Synthetic"
     ],
     "citation": "https://wiki.seg.org/wiki/C3",
-    "download_url": null,
+    "download_url": "https://huggingface.co/SPBench/SPBench-Model",
     "model_count": 11,
     "group_name": "SEGC3 Random Noise",
     "gallery": [
@@ -427,7 +427,7 @@
       "Synthetic"
     ],
     "citation": "https://wiki.seg.org/wiki/C3",
-    "download_url": null,
+    "download_url": "https://huggingface.co/SPBench/SPBench-Model",
     "model_count": 10,
     "group_name": "SEGC3 Random Noise",
     "gallery": [
@@ -476,7 +476,7 @@
       "Synthetic"
     ],
     "citation": "https://wiki.seg.org/wiki/C3",
-    "download_url": null,
+    "download_url": "https://huggingface.co/SPBench/SPBench-Model",
     "model_count": 10,
     "group_name": "SEGC3 Random Noise",
     "gallery": [
@@ -525,7 +525,7 @@
       "Synthetic"
     ],
     "citation": "https://wiki.seg.org/wiki/C3",
-    "download_url": null,
+    "download_url": "https://huggingface.co/SPBench/SPBench-Model",
     "model_count": 10,
     "group_name": "SEGC3 Random Noise",
     "gallery": [
@@ -575,7 +575,7 @@
       "Field"
     ],
     "citation": "https://wiki.seg.org/wiki/Mobil_AVO_viking_graben_line_12",
-    "download_url": null,
+    "download_url": "https://huggingface.co/SPBench/SPBench-Model",
     "model_count": 10,
     "gallery": [
       "datasets/mobile-avo-data.png"
@@ -623,7 +623,7 @@
       "Field"
     ],
     "citation": "https://wiki.seg.org/wiki/Mobil_AVO_viking_graben_line_12",
-    "download_url": null,
+    "download_url": "https://huggingface.co/SPBench/SPBench-Model",
     "model_count": 10,
     "gallery": [
       "datasets/mobile-avo-data.png"
@@ -671,7 +671,7 @@
       "Field"
     ],
     "citation": "https://wiki.seg.org/wiki/Mobil_AVO_viking_graben_line_12",
-    "download_url": null,
+    "download_url": "https://huggingface.co/SPBench/SPBench-Model",
     "model_count": 10,
     "gallery": [
       "datasets/mobile-avo-data.png"
@@ -719,7 +719,7 @@
       "Field"
     ],
     "citation": "https://wiki.seg.org/wiki/Mobil_AVO_viking_graben_line_12",
-    "download_url": null,
+    "download_url": "https://huggingface.co/SPBench/SPBench-Model",
     "model_count": 10,
     "gallery": [
       "datasets/mobile-avo-data.png"
@@ -767,7 +767,7 @@
       "Field"
     ],
     "citation": "https://wiki.seg.org/wiki/Mobil_AVO_viking_graben_line_12",
-    "download_url": null,
+    "download_url": "https://huggingface.co/SPBench/SPBench-Model",
     "model_count": 10,
     "gallery": [
       "datasets/mobile-avo-data.png"
@@ -815,7 +815,7 @@
       "Field"
     ],
     "citation": "https://wiki.seg.org/wiki/Mobil_AVO_viking_graben_line_12",
-    "download_url": null,
+    "download_url": "https://huggingface.co/SPBench/SPBench-Model",
     "model_count": 10,
     "gallery": [
       "datasets/mobile-avo-data.png"
@@ -863,7 +863,7 @@
       "Field"
     ],
     "citation": "https://wiki.seg.org/wiki/Mobil_AVO_viking_graben_line_12",
-    "download_url": null,
+    "download_url": "https://huggingface.co/SPBench/SPBench-Model",
     "model_count": 13,
     "gallery": [
       "datasets/mobile-avo-data.png"
@@ -911,7 +911,7 @@
       "Field"
     ],
     "citation": "https://wiki.seg.org/wiki/Mobil_AVO_viking_graben_line_12",
-    "download_url": null,
+    "download_url": "https://huggingface.co/SPBench/SPBench-Model",
     "model_count": 13,
     "gallery": [
       "datasets/mobile-avo-data.png"
@@ -959,7 +959,7 @@
       "Field"
     ],
     "citation": "https://wiki.seg.org/wiki/Mobil_AVO_viking_graben_line_12",
-    "download_url": null,
+    "download_url": "https://huggingface.co/SPBench/SPBench-Model",
     "model_count": 13,
     "gallery": [
       "datasets/mobile-avo-data.png"
@@ -1007,7 +1007,7 @@
       "Field"
     ],
     "citation": "https://wiki.seg.org/wiki/Mobil_AVO_viking_graben_line_12",
-    "download_url": null,
+    "download_url": "https://huggingface.co/SPBench/SPBench-Model",
     "model_count": 13,
     "gallery": [
       "datasets/mobile-avo-data.png"
@@ -1055,7 +1055,7 @@
       "Field"
     ],
     "citation": "https://wiki.seg.org/wiki/Mobil_AVO_viking_graben_line_12",
-    "download_url": null,
+    "download_url": "https://huggingface.co/SPBench/SPBench-Model",
     "model_count": 13,
     "gallery": [
       "datasets/mobile-avo-data.png"
@@ -1103,7 +1103,7 @@
       "Field"
     ],
     "citation": "https://wiki.seg.org/wiki/Mobil_AVO_viking_graben_line_12",
-    "download_url": null,
+    "download_url": "https://huggingface.co/SPBench/SPBench-Model",
     "model_count": 9,
     "gallery": [
       "datasets/mobile-avo-data.png"
@@ -1151,7 +1151,7 @@
       "Field"
     ],
     "citation": "https://wiki.seg.org/wiki/Mobil_AVO_viking_graben_line_12",
-    "download_url": null,
+    "download_url": "https://huggingface.co/SPBench/SPBench-Model",
     "model_count": 13,
     "gallery": [
       "datasets/mobile-avo-data.png"
@@ -1199,7 +1199,7 @@
       "Field"
     ],
     "citation": "https://wiki.seg.org/wiki/Mobil_AVO_viking_graben_line_12",
-    "download_url": null,
+    "download_url": "https://huggingface.co/SPBench/SPBench-Model",
     "model_count": 13,
     "gallery": [
       "datasets/mobile-avo-data.png"
@@ -1237,7 +1237,7 @@
       "Multi-Dataset"
     ],
     "citation": "Seismic processing benchmark dataset release",
-    "download_url": null,
+    "download_url": "https://huggingface.co/SPBench/SPBench-Model",
     "model_count": 10,
     "group_name": "First-Break Picking"
   },
@@ -1273,7 +1273,7 @@
       "Brunswick"
     ],
     "citation": "Seismic processing benchmark dataset release",
-    "download_url": null,
+    "download_url": "https://huggingface.co/SPBench/SPBench-Model",
     "model_count": 10,
     "gallery": [
       "datasets/fbp-brunswick-raw.png",
@@ -1313,7 +1313,7 @@
       "Halfmile"
     ],
     "citation": "Seismic processing benchmark dataset release",
-    "download_url": null,
+    "download_url": "https://huggingface.co/SPBench/SPBench-Model",
     "model_count": 10,
     "gallery": [
       "datasets/fbp-halfmile-raw.png",
@@ -1353,7 +1353,7 @@
       "Lalor"
     ],
     "citation": "Seismic processing benchmark dataset release",
-    "download_url": null,
+    "download_url": "https://huggingface.co/SPBench/SPBench-Model",
     "model_count": 10,
     "gallery": [
       "datasets/fbp-lalor-raw.png",
@@ -1402,7 +1402,7 @@
       "Synthetic"
     ],
     "citation": "https://wiki.seg.org/wiki/SEG_C3_45_shot",
-    "download_url": null,
+    "download_url": "https://huggingface.co/SPBench/SPBench-Model",
     "model_count": 16,
     "group_name": "SEGC3 Random Missing",
     "gallery": [
@@ -1451,7 +1451,7 @@
       "Synthetic"
     ],
     "citation": "https://wiki.seg.org/wiki/SEG_C3_45_shot",
-    "download_url": null,
+    "download_url": "https://huggingface.co/SPBench/SPBench-Model",
     "model_count": 16,
     "group_name": "SEGC3 Random Missing",
     "gallery": [
@@ -1500,7 +1500,7 @@
       "Synthetic"
     ],
     "citation": "https://wiki.seg.org/wiki/SEG_C3_45_shot",
-    "download_url": null,
+    "download_url": "https://huggingface.co/SPBench/SPBench-Model",
     "model_count": 12,
     "group_name": "SEGC3 Random Missing",
     "gallery": [
@@ -1549,7 +1549,7 @@
       "Synthetic"
     ],
     "citation": "https://wiki.seg.org/wiki/SEG_C3_45_shot",
-    "download_url": null,
+    "download_url": "https://huggingface.co/SPBench/SPBench-Model",
     "model_count": 16,
     "group_name": "SEGC3 Uniform Missing",
     "gallery": [
@@ -1599,7 +1599,7 @@
       "Synthetic"
     ],
     "citation": "https://wiki.seg.org/wiki/SEG_C3_45_shot",
-    "download_url": null,
+    "download_url": "https://huggingface.co/SPBench/SPBench-Model",
     "model_count": 14,
     "gallery": [
       "datasets/segc3-interp-uniform-raw.png",
@@ -1647,7 +1647,7 @@
       "Synthetic"
     ],
     "citation": "https://wiki.seg.org/wiki/SEG_C3_45_shot",
-    "download_url": null,
+    "download_url": "https://huggingface.co/SPBench/SPBench-Model",
     "model_count": 13,
     "group_name": "SEGC3 Continuous Missing",
     "gallery": [
@@ -1696,7 +1696,7 @@
       "Synthetic"
     ],
     "citation": "https://wiki.seg.org/wiki/SEG_C3_45_shot",
-    "download_url": null,
+    "download_url": "https://huggingface.co/SPBench/SPBench-Model",
     "model_count": 13,
     "group_name": "SEGC3 Continuous Missing",
     "gallery": [
@@ -1745,7 +1745,7 @@
       "Synthetic"
     ],
     "citation": "https://wiki.seg.org/wiki/SEG_C3_45_shot",
-    "download_url": null,
+    "download_url": "https://huggingface.co/SPBench/SPBench-Model",
     "model_count": 13,
     "group_name": "SEGC3 Continuous Missing",
     "gallery": [
@@ -1793,7 +1793,7 @@
       "Synthetic"
     ],
     "citation": "Seismic processing benchmark dataset release",
-    "download_url": null,
+    "download_url": "https://huggingface.co/SPBench/SPBench-Model",
     "model_count": 9,
     "group_name": "SEGC3 Multiples Attenuation",
     "gallery": [
@@ -1841,7 +1841,7 @@
       "Common Receiver"
     ],
     "citation": "Seismic processing benchmark dataset release",
-    "download_url": null,
+    "download_url": "https://huggingface.co/SPBench/SPBench-Model",
     "model_count": 10,
     "group_name": "Common-Receiver Deblending",
     "gallery": [
@@ -1889,7 +1889,7 @@
       "Common Receiver"
     ],
     "citation": "Seismic processing benchmark dataset release",
-    "download_url": null,
+    "download_url": "https://huggingface.co/SPBench/SPBench-Model",
     "model_count": 10,
     "group_name": "Common-Receiver Deblending",
     "gallery": [
@@ -1937,7 +1937,7 @@
       "Common Receiver"
     ],
     "citation": "Seismic processing benchmark dataset release",
-    "download_url": null,
+    "download_url": "https://huggingface.co/SPBench/SPBench-Model",
     "model_count": 10,
     "group_name": "Common-Receiver Deblending",
     "gallery": [
@@ -1986,7 +1986,7 @@
       "Common Receiver"
     ],
     "citation": "Seismic processing benchmark dataset release",
-    "download_url": null,
+    "download_url": "https://huggingface.co/SPBench/SPBench-Model",
     "model_count": 10,
     "group_name": "AVO Common-Receiver Deblending",
     "gallery": [

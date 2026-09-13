@@ -18,7 +18,7 @@
       "rc_norm": 5.784
     },
     "paper_url": "https://arxiv.org/abs/1804.03999",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "notes": "Scores are averaged over seeds 42, 43, and 44. Hit-rate metrics are computed by first-break pick error thresholds in samples.",
     "scores_std": {
@@ -56,7 +56,7 @@
       "rc_norm": 81.722
     },
     "paper_url": "https://doi.org/10.1109/TIP.2017.2662206",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "notes": "Scores are averaged over seeds 42, 43, and 44. Hit-rate metrics are computed by first-break pick error thresholds in samples.",
     "scores_std": {
@@ -94,7 +94,7 @@
       "rc_norm": 5.327
     },
     "paper_url": "https://doi.org/10.1190/geo2023-0154.1",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "dice": 0.0003,
@@ -131,7 +131,7 @@
       "rc_norm": 6.11
     },
     "paper_url": "https://doi.org/10.1109/LGRS.2018.2802944",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "notes": "Scores are averaged over seeds 42, 43, and 44. Hit-rate metrics are computed by first-break pick error thresholds in samples.",
     "scores_std": {
@@ -169,7 +169,7 @@
       "rc_norm": 5.524
     },
     "paper_url": "https://doi.org/10.1007/978-3-319-24574-4_28",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "notes": "Scores are averaged over seeds 42, 43, and 44. Hit-rate metrics are computed by first-break pick error thresholds in samples.",
     "scores_std": {
@@ -207,7 +207,7 @@
       "rc_norm": 23.983
     },
     "paper_url": "https://arxiv.org/abs/1804.03999",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "notes": "Scores are averaged over seeds 42, 43, and 44. Hit-rate metrics are computed by first-break pick error thresholds in samples.",
     "scores_std": {
@@ -245,7 +245,7 @@
       "rc_norm": 149.928
     },
     "paper_url": "https://doi.org/10.1109/TIP.2017.2662206",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "notes": "Scores are averaged over seeds 42, 43, and 44. Hit-rate metrics are computed by first-break pick error thresholds in samples.",
     "scores_std": {
@@ -283,7 +283,7 @@
       "rc_norm": 11.142
     },
     "paper_url": "https://doi.org/10.1190/geo2023-0154.1",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "dice": 0.0011,
@@ -320,7 +320,7 @@
       "rc_norm": 15.536
     },
     "paper_url": "https://doi.org/10.1109/LGRS.2018.2802944",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "notes": "Scores are averaged over seeds 42, 43, and 44. Hit-rate metrics are computed by first-break pick error thresholds in samples.",
     "scores_std": {
@@ -358,7 +358,7 @@
       "rc_norm": 19.28
     },
     "paper_url": "https://doi.org/10.1007/978-3-319-24574-4_28",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "notes": "Scores are averaged over seeds 42, 43, and 44. Hit-rate metrics are computed by first-break pick error thresholds in samples.",
     "scores_std": {
@@ -396,7 +396,7 @@
       "rc_norm": 14.784
     },
     "paper_url": "https://arxiv.org/abs/1804.03999",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "notes": "Scores are averaged over seeds 42, 43, and 44. Hit-rate metrics are computed by first-break pick error thresholds in samples.",
     "scores_std": {
@@ -434,7 +434,7 @@
       "rc_norm": 175.182
     },
     "paper_url": "https://doi.org/10.1109/TIP.2017.2662206",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "notes": "Scores are averaged over seeds 42, 43, and 44. Hit-rate metrics are computed by first-break pick error thresholds in samples.",
     "scores_std": {
@@ -472,7 +472,7 @@
       "rc_norm": 11.733
     },
     "paper_url": "https://doi.org/10.1190/geo2023-0154.1",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "dice": 0.0004,
@@ -509,7 +509,7 @@
       "rc_norm": 13.635
     },
     "paper_url": "https://doi.org/10.1109/LGRS.2018.2802944",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "notes": "Scores are averaged over seeds 42, 43, and 44. Hit-rate metrics are computed by first-break pick error thresholds in samples.",
     "scores_std": {
@@ -547,7 +547,7 @@
       "rc_norm": 16.356
     },
     "paper_url": "https://doi.org/10.1007/978-3-319-24574-4_28",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "notes": "Scores are averaged over seeds 42, 43, and 44. Hit-rate metrics are computed by first-break pick error thresholds in samples.",
     "scores_std": {
@@ -585,7 +585,7 @@
       "rc_norm": 31.882
     },
     "paper_url": "https://arxiv.org/abs/1804.03999",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "notes": "Scores are averaged over seeds 42, 43, and 44. Hit-rate metrics are computed by first-break pick error thresholds in samples.",
     "scores_std": {
@@ -623,7 +623,7 @@
       "rc_norm": 158.739
     },
     "paper_url": "https://doi.org/10.1109/TIP.2017.2662206",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "notes": "Scores are averaged over seeds 42, 43, and 44. Hit-rate metrics are computed by first-break pick error thresholds in samples.",
     "scores_std": {
@@ -661,7 +661,7 @@
       "rc_norm": 38.084
     },
     "paper_url": "https://doi.org/10.1190/geo2023-0154.1",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "dice": 0.0029,
@@ -698,7 +698,7 @@
       "rc_norm": 54.656
     },
     "paper_url": "https://doi.org/10.1109/LGRS.2018.2802944",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "notes": "Scores are averaged over seeds 42, 43, and 44. Hit-rate metrics are computed by first-break pick error thresholds in samples.",
     "scores_std": {
@@ -736,7 +736,7 @@
       "rc_norm": 42.523
     },
     "paper_url": "https://doi.org/10.1007/978-3-319-24574-4_28",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "notes": "Scores are averaged over seeds 42, 43, and 44. Hit-rate metrics are computed by first-break pick error thresholds in samples.",
     "scores_std": {
@@ -783,7 +783,7 @@
       "fb_fre_very_high_snr": 23.7
     },
     "paper_url": "https://arxiv.org/abs/1804.03999",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 1.3519,
@@ -838,7 +838,7 @@
       "fb_fre_very_high_snr": 21.96
     },
     "paper_url": "https://arxiv.org/abs/1804.03999",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 1.328,
@@ -893,7 +893,7 @@
       "fb_fre_very_high_snr": 1.44
     },
     "paper_url": "https://doi.org/10.1109/TGRS.2024.3489716",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 1.3939,
@@ -948,7 +948,7 @@
       "fb_fre_very_high_snr": 11.0
     },
     "paper_url": "https://doi.org/10.1109/TIP.2017.2662206",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 0.3253,
@@ -1003,7 +1003,7 @@
       "fb_fre_very_high_snr": 5.7
     },
     "paper_url": "https://doi.org/10.1109/TGRS.2024.3427405",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 0.4042,
@@ -1058,7 +1058,7 @@
       "fb_fre_very_high_snr": 13.62
     },
     "paper_url": "https://doi.org/10.1190/geo2020-0691.1",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 0.3255,
@@ -1113,7 +1113,7 @@
       "fb_fre_very_high_snr": 9.33
     },
     "paper_url": "https://doi.org/10.1190/geo2019-0414.1",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 0.4188,
@@ -1168,7 +1168,7 @@
       "fb_fre_very_high_snr": 25.68
     },
     "paper_url": "https://doi.org/10.1109/LGRS.2018.2802944",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 0.5664,
@@ -1223,7 +1223,7 @@
       "fb_fre_very_high_snr": 20.75
     },
     "paper_url": "https://doi.org/10.1109/LGRS.2018.2802944",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 0.1331,
@@ -1278,7 +1278,7 @@
       "fb_fre_very_high_snr": 12.17
     },
     "paper_url": "https://doi.org/10.1190/geo2023-0150.1",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 0.3003,
@@ -1333,7 +1333,7 @@
       "fb_fre_very_high_snr": 22.2
     },
     "paper_url": "https://doi.org/10.1007/978-3-319-24574-4_28",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 1.0929,
@@ -1388,7 +1388,7 @@
       "fb_fre_very_high_snr": 21.74
     },
     "paper_url": "https://doi.org/10.1007/978-3-319-24574-4_28",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 0.4495,
@@ -1443,7 +1443,7 @@
       "fb_fre_very_high_snr": 19.76
     },
     "paper_url": "https://arxiv.org/abs/1804.03999",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 1.2232,
@@ -1498,7 +1498,7 @@
       "fb_fre_very_high_snr": 17.17
     },
     "paper_url": "https://arxiv.org/abs/1804.03999",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 0.4883,
@@ -1553,7 +1553,7 @@
       "fb_fre_very_high_snr": -4.7
     },
     "paper_url": "https://doi.org/10.1109/TGRS.2024.3489716",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 1.4196,
@@ -1608,7 +1608,7 @@
       "fb_fre_very_high_snr": 9.91
     },
     "paper_url": "https://doi.org/10.1109/TIP.2017.2662206",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 0.2318,
@@ -1663,7 +1663,7 @@
       "fb_fre_very_high_snr": 1.44
     },
     "paper_url": "https://doi.org/10.1109/TGRS.2024.3427405",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 0.9337,
@@ -1718,7 +1718,7 @@
       "fb_fre_very_high_snr": 9.62
     },
     "paper_url": "https://doi.org/10.1190/geo2020-0691.1",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 0.1361,
@@ -1773,7 +1773,7 @@
       "fb_fre_very_high_snr": 0.55
     },
     "paper_url": "https://doi.org/10.1190/geo2019-0414.1",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 0.307,
@@ -1828,7 +1828,7 @@
       "fb_fre_very_high_snr": 21.03
     },
     "paper_url": "https://doi.org/10.1109/LGRS.2018.2802944",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 0.9303,
@@ -1883,7 +1883,7 @@
       "fb_fre_very_high_snr": 17.24
     },
     "paper_url": "https://doi.org/10.1109/LGRS.2018.2802944",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 0.141,
@@ -1938,7 +1938,7 @@
       "fb_fre_very_high_snr": 7.2
     },
     "paper_url": "https://doi.org/10.1190/geo2023-0150.1",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 0.249,
@@ -1993,7 +1993,7 @@
       "fb_fre_very_high_snr": 17.58
     },
     "paper_url": "https://doi.org/10.1007/978-3-319-24574-4_28",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 0.0993,
@@ -2048,7 +2048,7 @@
       "fb_fre_very_high_snr": 17.47
     },
     "paper_url": "https://doi.org/10.1007/978-3-319-24574-4_28",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 0.1849,
@@ -2103,7 +2103,7 @@
       "fb_fre_very_high_snr": 17.55
     },
     "paper_url": "https://arxiv.org/abs/1804.03999",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 1.0634,
@@ -2158,7 +2158,7 @@
       "fb_fre_very_high_snr": 14.21
     },
     "paper_url": "https://arxiv.org/abs/1804.03999",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 0.3349,
@@ -2213,7 +2213,7 @@
       "fb_fre_very_high_snr": -8.22
     },
     "paper_url": "https://doi.org/10.1109/TGRS.2024.3489716",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 1.4423,
@@ -2268,7 +2268,7 @@
       "fb_fre_very_high_snr": 9.4
     },
     "paper_url": "https://doi.org/10.1109/TIP.2017.2662206",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 0.2228,
@@ -2323,7 +2323,7 @@
       "fb_fre_very_high_snr": 0.29
     },
     "paper_url": "https://doi.org/10.1109/TGRS.2024.3427405",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 0.8314,
@@ -2378,7 +2378,7 @@
       "fb_fre_very_high_snr": 8.47
     },
     "paper_url": "https://doi.org/10.1190/geo2020-0691.1",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 0.1944,
@@ -2433,7 +2433,7 @@
       "fb_fre_very_high_snr": -3.55
     },
     "paper_url": "https://doi.org/10.1190/geo2019-0414.1",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 0.613,
@@ -2488,7 +2488,7 @@
       "fb_fre_very_high_snr": 19.23
     },
     "paper_url": "https://doi.org/10.1109/LGRS.2018.2802944",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 2.117,
@@ -2543,7 +2543,7 @@
       "fb_fre_very_high_snr": 14.99
     },
     "paper_url": "https://doi.org/10.1109/LGRS.2018.2802944",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 0.2868,
@@ -2598,7 +2598,7 @@
       "fb_fre_very_high_snr": 3.73
     },
     "paper_url": "https://doi.org/10.1190/geo2023-0150.1",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 0.139,
@@ -2653,7 +2653,7 @@
       "fb_fre_very_high_snr": 15.37
     },
     "paper_url": "https://doi.org/10.1007/978-3-319-24574-4_28",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 0.321,
@@ -2708,7 +2708,7 @@
       "fb_fre_very_high_snr": 14.49
     },
     "paper_url": "https://doi.org/10.1007/978-3-319-24574-4_28",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 0.1342,
@@ -2763,7 +2763,7 @@
       "fb_fre_very_high_snr": 14.41
     },
     "paper_url": "https://arxiv.org/abs/1804.03999",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 2.7967,
@@ -2818,7 +2818,7 @@
       "fb_fre_very_high_snr": 11.78
     },
     "paper_url": "https://arxiv.org/abs/1804.03999",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 0.3598,
@@ -2873,7 +2873,7 @@
       "fb_fre_very_high_snr": -10.67
     },
     "paper_url": "https://doi.org/10.1109/TGRS.2024.3489716",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 1.481,
@@ -2928,7 +2928,7 @@
       "fb_fre_very_high_snr": 8.29
     },
     "paper_url": "https://doi.org/10.1109/TIP.2017.2662206",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 0.128,
@@ -2983,7 +2983,7 @@
       "fb_fre_very_high_snr": 0.06
     },
     "paper_url": "https://doi.org/10.1109/TGRS.2024.3427405",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 1.1926,
@@ -3038,7 +3038,7 @@
       "fb_fre_very_high_snr": 7.69
     },
     "paper_url": "https://doi.org/10.1190/geo2020-0691.1",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 0.5459,
@@ -3093,7 +3093,7 @@
       "fb_fre_very_high_snr": -5.78
     },
     "paper_url": "https://doi.org/10.1190/geo2019-0414.1",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 0.3167,
@@ -3148,7 +3148,7 @@
       "fb_fre_very_high_snr": 16.28
     },
     "paper_url": "https://doi.org/10.1109/LGRS.2018.2802944",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 1.4399,
@@ -3203,7 +3203,7 @@
       "fb_fre_very_high_snr": 13.21
     },
     "paper_url": "https://doi.org/10.1109/LGRS.2018.2802944",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 0.3967,
@@ -3258,7 +3258,7 @@
       "fb_fre_very_high_snr": 1.1
     },
     "paper_url": "https://doi.org/10.1190/geo2023-0150.1",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 0.1912,
@@ -3313,7 +3313,7 @@
       "fb_fre_very_high_snr": 12.7
     },
     "paper_url": "https://doi.org/10.1007/978-3-319-24574-4_28",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 0.2809,
@@ -3368,7 +3368,7 @@
       "fb_fre_very_high_snr": 12.28
     },
     "paper_url": "https://doi.org/10.1007/978-3-319-24574-4_28",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 0.0865,
@@ -3423,7 +3423,7 @@
       "fb_fre_very_high_snr": 12.18
     },
     "paper_url": "https://arxiv.org/abs/1804.03999",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 2.7595,
@@ -3478,7 +3478,7 @@
       "fb_fre_very_high_snr": 9.98
     },
     "paper_url": "https://arxiv.org/abs/1804.03999",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 0.2694,
@@ -3533,7 +3533,7 @@
       "fb_fre_very_high_snr": -12.53
     },
     "paper_url": "https://doi.org/10.1109/TGRS.2024.3489716",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 1.2243,
@@ -3588,7 +3588,7 @@
       "fb_fre_very_high_snr": 7.56
     },
     "paper_url": "https://doi.org/10.1109/TIP.2017.2662206",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 0.1805,
@@ -3643,7 +3643,7 @@
       "fb_fre_very_high_snr": 0.01
     },
     "paper_url": "https://doi.org/10.1109/TGRS.2024.3427405",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 1.5448,
@@ -3698,7 +3698,7 @@
       "fb_fre_very_high_snr": 5.38
     },
     "paper_url": "https://doi.org/10.1190/geo2020-0691.1",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 0.2908,
@@ -3753,7 +3753,7 @@
       "fb_fre_very_high_snr": -9.24
     },
     "paper_url": "https://doi.org/10.1190/geo2019-0414.1",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 2.662,
@@ -3808,7 +3808,7 @@
       "fb_fre_very_high_snr": 14.2
     },
     "paper_url": "https://doi.org/10.1109/LGRS.2018.2802944",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 1.2448,
@@ -3863,7 +3863,7 @@
       "fb_fre_very_high_snr": 11.6
     },
     "paper_url": "https://doi.org/10.1109/LGRS.2018.2802944",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 0.2758,
@@ -3918,7 +3918,7 @@
       "fb_fre_very_high_snr": -0.56
     },
     "paper_url": "https://doi.org/10.1190/geo2023-0150.1",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 0.1367,
@@ -3973,7 +3973,7 @@
       "fb_fre_very_high_snr": 11.35
     },
     "paper_url": "https://doi.org/10.1007/978-3-319-24574-4_28",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 0.4636,
@@ -4028,7 +4028,7 @@
       "fb_fre_very_high_snr": 10.39
     },
     "paper_url": "https://doi.org/10.1007/978-3-319-24574-4_28",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 0.0815,
@@ -4081,7 +4081,7 @@
       "fb_fre_very_high_snr": 12.04
     },
     "paper_url": "https://arxiv.org/abs/1804.03999",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-08-24",
     "scores_std": {
       "snr": 0.0937,
@@ -4132,7 +4132,7 @@
       "fb_fre_very_high_snr": 11.72
     },
     "paper_url": "https://doi.org/10.1109/TIP.2017.2662206",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-08-24",
     "scores_std": {
       "snr": 0.0991,
@@ -4183,7 +4183,7 @@
       "fb_fre_very_high_snr": 12.26
     },
     "paper_url": "https://doi.org/10.1109/LGRS.2018.2802944",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-08-24",
     "scores_std": {
       "snr": 0.0464,
@@ -4234,7 +4234,7 @@
       "fb_fre_very_high_snr": 12.5
     },
     "paper_url": "https://doi.org/10.1007/978-3-319-24574-4_28",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-08-24",
     "scores_std": {
       "snr": 0.0772,
@@ -4285,7 +4285,7 @@
       "fb_fre_very_high_snr": 9.65
     },
     "paper_url": "https://arxiv.org/abs/1804.03999",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-08-24",
     "scores_std": {
       "snr": 0.0253,
@@ -4336,7 +4336,7 @@
       "fb_fre_very_high_snr": 9.53
     },
     "paper_url": "https://doi.org/10.1109/TIP.2017.2662206",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-08-24",
     "scores_std": {
       "snr": 0.0556,
@@ -4387,7 +4387,7 @@
       "fb_fre_very_high_snr": 9.82
     },
     "paper_url": "https://doi.org/10.1109/LGRS.2018.2802944",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-08-24",
     "scores_std": {
       "snr": 0.029,
@@ -4438,7 +4438,7 @@
       "fb_fre_very_high_snr": 9.89
     },
     "paper_url": "https://doi.org/10.1007/978-3-319-24574-4_28",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-08-24",
     "scores_std": {
       "snr": 0.0835,
@@ -4489,7 +4489,7 @@
       "fb_fre_very_high_snr": 8.07
     },
     "paper_url": "https://arxiv.org/abs/1804.03999",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-08-24",
     "scores_std": {
       "snr": 0.0314,
@@ -4540,7 +4540,7 @@
       "fb_fre_very_high_snr": 8.11
     },
     "paper_url": "https://doi.org/10.1109/TIP.2017.2662206",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-08-24",
     "scores_std": {
       "snr": 0.0434,
@@ -4591,7 +4591,7 @@
       "fb_fre_very_high_snr": 8.22
     },
     "paper_url": "https://doi.org/10.1109/LGRS.2018.2802944",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-08-24",
     "scores_std": {
       "snr": 0.0856,
@@ -4642,7 +4642,7 @@
       "fb_fre_very_high_snr": 8.29
     },
     "paper_url": "https://doi.org/10.1007/978-3-319-24574-4_28",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-08-24",
     "scores_std": {
       "snr": 0.0461,
@@ -4693,7 +4693,7 @@
       "fb_fre_very_high_snr": 13.25
     },
     "paper_url": "https://arxiv.org/abs/1804.03999",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-08-24",
     "scores_std": {
       "snr": 0.1295,
@@ -4744,7 +4744,7 @@
       "fb_fre_very_high_snr": 14.58
     },
     "paper_url": "https://doi.org/10.1109/TIP.2017.2662206",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-08-24",
     "scores_std": {
       "snr": 0.0494,
@@ -4795,7 +4795,7 @@
       "fb_fre_very_high_snr": 13.52
     },
     "paper_url": "https://doi.org/10.1109/LGRS.2018.2802944",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-08-24",
     "scores_std": {
       "snr": 0.3606,
@@ -4846,7 +4846,7 @@
       "fb_fre_very_high_snr": 13.23
     },
     "paper_url": "https://doi.org/10.1007/978-3-319-24574-4_28",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-08-24",
     "scores_std": {
       "snr": 0.1343,
@@ -4897,7 +4897,7 @@
       "fb_fre_very_high_snr": 9.55
     },
     "paper_url": "https://arxiv.org/abs/1804.03999",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-08-24",
     "scores_std": {
       "snr": 0.1732,
@@ -4948,7 +4948,7 @@
       "fb_fre_very_high_snr": 10.15
     },
     "paper_url": "https://doi.org/10.1109/TIP.2017.2662206",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-08-24",
     "scores_std": {
       "snr": 0.0212,
@@ -4999,7 +4999,7 @@
       "fb_fre_very_high_snr": 9.7
     },
     "paper_url": "https://doi.org/10.1109/LGRS.2018.2802944",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-08-24",
     "scores_std": {
       "snr": 0.0376,
@@ -5050,7 +5050,7 @@
       "fb_fre_very_high_snr": 9.45
     },
     "paper_url": "https://doi.org/10.1007/978-3-319-24574-4_28",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-08-24",
     "scores_std": {
       "snr": 0.0692,
@@ -5101,7 +5101,7 @@
       "fb_fre_very_high_snr": 5.67
     },
     "paper_url": "https://arxiv.org/abs/1804.03999",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-08-24",
     "scores_std": {
       "snr": 0.1,
@@ -5152,7 +5152,7 @@
       "fb_fre_very_high_snr": 5.33
     },
     "paper_url": "https://doi.org/10.1109/TIP.2017.2662206",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-08-24",
     "scores_std": {
       "snr": 0.02,
@@ -5203,7 +5203,7 @@
       "fb_fre_very_high_snr": 5.83
     },
     "paper_url": "https://doi.org/10.1109/LGRS.2018.2802944",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-08-24",
     "scores_std": {
       "snr": 0.0203,
@@ -5254,7 +5254,7 @@
       "fb_fre_very_high_snr": 5.68
     },
     "paper_url": "https://doi.org/10.1007/978-3-319-24574-4_28",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-08-24",
     "scores_std": {
       "snr": 0.0208,
@@ -5305,7 +5305,7 @@
       "fb_fre_very_high_snr": 10.32
     },
     "paper_url": "https://arxiv.org/abs/1804.03999",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-08-24",
     "scores_std": {
       "snr": 0.0315,
@@ -5356,7 +5356,7 @@
       "fb_fre_very_high_snr": 9.1
     },
     "paper_url": "https://doi.org/10.1109/TIP.2017.2662206",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-08-24",
     "scores_std": {
       "snr": 0.0579,
@@ -5407,7 +5407,7 @@
       "fb_fre_very_high_snr": 10.48
     },
     "paper_url": "https://doi.org/10.1109/LGRS.2018.2802944",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-08-24",
     "scores_std": {
       "snr": 0.0256,
@@ -5458,7 +5458,7 @@
       "fb_fre_very_high_snr": 10.37
     },
     "paper_url": "https://doi.org/10.1007/978-3-319-24574-4_28",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-08-24",
     "scores_std": {
       "snr": 0.0579,
@@ -5511,7 +5511,7 @@
       "fb_fre_very_high_snr": 2.1818
     },
     "paper_url": "https://openreview.net/forum?id=Skft7cijM",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03",
     "scores_std": {
       "snr": 0.1022,
@@ -5566,7 +5566,7 @@
       "fb_fre_very_high_snr": 3.5321
     },
     "paper_url": "https://doi.org/10.1190/GEO2021-0294.1",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03",
     "scores_std": {
       "snr": 0.4451,
@@ -5621,7 +5621,7 @@
       "fb_fre_very_high_snr": 2.436
     },
     "paper_url": "https://proceedings.neurips.cc/paper/2020/hash/4c5bcfec8584af0d967f1ab10179ca4b-Abstract.html",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03",
     "scores_std": {
       "snr": 0.0439,
@@ -5676,7 +5676,7 @@
       "fb_fre_very_high_snr": 3.9279
     },
     "paper_url": "https://ieeexplore.ieee.org/document/7839189",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03",
     "scores_std": {
       "snr": 0.0582,
@@ -5731,7 +5731,7 @@
       "fb_fre_very_high_snr": 2.9066
     },
     "paper_url": "https://doi.org/10.1190/geo2021-0621.1",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03",
     "scores_std": {
       "snr": 0.0036,
@@ -5786,7 +5786,7 @@
       "fb_fre_very_high_snr": 2.6088
     },
     "paper_url": null,
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03",
     "scores_std": {
       "snr": 0.0766,
@@ -5841,7 +5841,7 @@
       "fb_fre_very_high_snr": 1.9029
     },
     "paper_url": "https://arxiv.org/abs/1904.00592",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03",
     "scores_std": {
       "snr": 0.1114,
@@ -5896,7 +5896,7 @@
       "fb_fre_very_high_snr": 4.2929
     },
     "paper_url": null,
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03",
     "scores_std": {
       "snr": 0.0063,
@@ -5951,7 +5951,7 @@
       "fb_fre_very_high_snr": 2.0925
     },
     "paper_url": "https://doi.org/10.1007/978-3-319-24574-4_28",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03",
     "scores_std": {
       "snr": 0.1951,
@@ -6006,7 +6006,7 @@
       "fb_fre_very_high_snr": 4.0762
     },
     "paper_url": "https://openreview.net/forum?id=Skft7cijM",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03",
     "scores_std": {
       "snr": 0.2287,
@@ -6061,7 +6061,7 @@
       "fb_fre_very_high_snr": 6.2594
     },
     "paper_url": "https://doi.org/10.1190/GEO2021-0294.1",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03",
     "scores_std": {
       "snr": 0.4697,
@@ -6116,7 +6116,7 @@
       "fb_fre_very_high_snr": 4.2562
     },
     "paper_url": "https://proceedings.neurips.cc/paper/2020/hash/4c5bcfec8584af0d967f1ab10179ca4b-Abstract.html",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03",
     "scores_std": {
       "snr": 0.2331,
@@ -6171,7 +6171,7 @@
       "fb_fre_very_high_snr": 6.4307
     },
     "paper_url": "https://ieeexplore.ieee.org/document/7839189",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03",
     "scores_std": {
       "snr": 0.0209,
@@ -6226,7 +6226,7 @@
       "fb_fre_very_high_snr": 5.4263
     },
     "paper_url": "https://doi.org/10.1190/geo2021-0621.1",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03",
     "scores_std": {
       "snr": 0.0157,
@@ -6281,7 +6281,7 @@
       "fb_fre_very_high_snr": 5.1593
     },
     "paper_url": null,
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03",
     "scores_std": {
       "snr": 0.15,
@@ -6336,7 +6336,7 @@
       "fb_fre_very_high_snr": 3.9844
     },
     "paper_url": "https://arxiv.org/abs/1904.00592",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03",
     "scores_std": {
       "snr": 0.0496,
@@ -6391,7 +6391,7 @@
       "fb_fre_very_high_snr": 6.5933
     },
     "paper_url": null,
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03",
     "scores_std": {
       "snr": 0.0123,
@@ -6446,7 +6446,7 @@
       "fb_fre_very_high_snr": 3.9624
     },
     "paper_url": "https://doi.org/10.1007/978-3-319-24574-4_28",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03",
     "scores_std": {
       "snr": 0.442,
@@ -6501,7 +6501,7 @@
       "fb_fre_very_high_snr": 0.8151
     },
     "paper_url": "https://openreview.net/forum?id=Skft7cijM",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03",
     "scores_std": {
       "snr": 0.0358,
@@ -6556,7 +6556,7 @@
       "fb_fre_very_high_snr": 2.3223
     },
     "paper_url": "https://doi.org/10.1190/GEO2021-0294.1",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03",
     "scores_std": {
       "snr": 0.0516,
@@ -6611,7 +6611,7 @@
       "fb_fre_very_high_snr": 0.8946
     },
     "paper_url": "https://proceedings.neurips.cc/paper/2020/hash/4c5bcfec8584af0d967f1ab10179ca4b-Abstract.html",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03",
     "scores_std": {
       "snr": 0.066,
@@ -6666,7 +6666,7 @@
       "fb_fre_very_high_snr": 1.7878
     },
     "paper_url": "https://ieeexplore.ieee.org/document/7839189",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03",
     "scores_std": {
       "snr": 0.0255,
@@ -6721,7 +6721,7 @@
       "fb_fre_very_high_snr": 1.0147
     },
     "paper_url": "https://doi.org/10.1190/geo2021-0621.1",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03",
     "scores_std": {
       "snr": 0.0563,
@@ -6776,7 +6776,7 @@
       "fb_fre_very_high_snr": 1.1127
     },
     "paper_url": null,
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03",
     "scores_std": {
       "snr": 0.2061,
@@ -6831,7 +6831,7 @@
       "fb_fre_very_high_snr": 0.6579
     },
     "paper_url": "https://arxiv.org/abs/1904.00592",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03",
     "scores_std": {
       "snr": 0.1157,
@@ -6886,7 +6886,7 @@
       "fb_fre_very_high_snr": 2.3024
     },
     "paper_url": null,
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03",
     "scores_std": {
       "snr": 0.0046,
@@ -6941,7 +6941,7 @@
       "fb_fre_very_high_snr": 0.8134
     },
     "paper_url": "https://doi.org/10.1007/978-3-319-24574-4_28",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03",
     "scores_std": {
       "snr": 0.1563,
@@ -6996,7 +6996,7 @@
       "fb_fre_very_high_snr": 2.1679
     },
     "paper_url": "https://openreview.net/forum?id=Skft7cijM",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03",
     "scores_std": {
       "snr": 0.1199,
@@ -7051,7 +7051,7 @@
       "fb_fre_very_high_snr": 2.4574
     },
     "paper_url": "https://proceedings.neurips.cc/paper/2020/hash/4c5bcfec8584af0d967f1ab10179ca4b-Abstract.html",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03",
     "scores_std": {
       "snr": 0.0209,
@@ -7106,7 +7106,7 @@
       "fb_fre_very_high_snr": 3.9285
     },
     "paper_url": "https://ieeexplore.ieee.org/document/7839189",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03",
     "scores_std": {
       "snr": 0.0325,
@@ -7161,7 +7161,7 @@
       "fb_fre_very_high_snr": 2.906
     },
     "paper_url": "https://doi.org/10.1190/geo2021-0621.1",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03",
     "scores_std": {
       "snr": 0.0203,
@@ -7216,7 +7216,7 @@
       "fb_fre_very_high_snr": 2.5516
     },
     "paper_url": null,
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03",
     "scores_std": {
       "snr": 0.0611,
@@ -7271,7 +7271,7 @@
       "fb_fre_very_high_snr": 1.9112
     },
     "paper_url": "https://arxiv.org/abs/1904.00592",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03",
     "scores_std": {
       "snr": 0.0935,
@@ -7326,7 +7326,7 @@
       "fb_fre_very_high_snr": 4.2618
     },
     "paper_url": null,
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03",
     "scores_std": {
       "snr": 0.008,
@@ -7381,7 +7381,7 @@
       "fb_fre_very_high_snr": 2.0812
     },
     "paper_url": "https://doi.org/10.1007/978-3-319-24574-4_28",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03",
     "scores_std": {
       "snr": 0.1923,
@@ -7436,7 +7436,7 @@
       "fb_fre_very_high_snr": 4.1304
     },
     "paper_url": "https://openreview.net/forum?id=Skft7cijM",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03",
     "scores_std": {
       "snr": 0.222,
@@ -7491,7 +7491,7 @@
       "fb_fre_very_high_snr": 4.3042
     },
     "paper_url": "https://proceedings.neurips.cc/paper/2020/hash/4c5bcfec8584af0d967f1ab10179ca4b-Abstract.html",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03",
     "scores_std": {
       "snr": 0.0858,
@@ -7546,7 +7546,7 @@
       "fb_fre_very_high_snr": 6.45
     },
     "paper_url": "https://ieeexplore.ieee.org/document/7839189",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03",
     "scores_std": {
       "snr": 0.0261,
@@ -7601,7 +7601,7 @@
       "fb_fre_very_high_snr": 5.4189
     },
     "paper_url": "https://doi.org/10.1190/geo2021-0621.1",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03",
     "scores_std": {
       "snr": 0.0093,
@@ -7656,7 +7656,7 @@
       "fb_fre_very_high_snr": 5.0104
     },
     "paper_url": null,
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03",
     "scores_std": {
       "snr": 0.0369,
@@ -7711,7 +7711,7 @@
       "fb_fre_very_high_snr": 3.9579
     },
     "paper_url": "https://arxiv.org/abs/1904.00592",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03",
     "scores_std": {
       "snr": 0.0476,
@@ -7766,7 +7766,7 @@
       "fb_fre_very_high_snr": 6.5986
     },
     "paper_url": null,
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03",
     "scores_std": {
       "snr": 0.0069,
@@ -7821,7 +7821,7 @@
       "fb_fre_very_high_snr": 4.0065
     },
     "paper_url": "https://doi.org/10.1007/978-3-319-24574-4_28",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03",
     "scores_std": {
       "snr": 0.37,
@@ -7876,7 +7876,7 @@
       "fb_fre_very_high_snr": 0.8512
     },
     "paper_url": "https://openreview.net/forum?id=Skft7cijM",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03",
     "scores_std": {
       "snr": 0.0674,
@@ -7931,7 +7931,7 @@
       "fb_fre_very_high_snr": 0.9344
     },
     "paper_url": "https://proceedings.neurips.cc/paper/2020/hash/4c5bcfec8584af0d967f1ab10179ca4b-Abstract.html",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03",
     "scores_std": {
       "snr": 0.0604,
@@ -7986,7 +7986,7 @@
       "fb_fre_very_high_snr": 1.7049
     },
     "paper_url": "https://ieeexplore.ieee.org/document/7839189",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03",
     "scores_std": {
       "snr": 0.05,
@@ -8041,7 +8041,7 @@
       "fb_fre_very_high_snr": 0.9879
     },
     "paper_url": "https://doi.org/10.1190/geo2021-0621.1",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03",
     "scores_std": {
       "snr": 0.041,
@@ -8096,7 +8096,7 @@
       "fb_fre_very_high_snr": 1.0228
     },
     "paper_url": null,
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03",
     "scores_std": {
       "snr": 0.0784,
@@ -8151,7 +8151,7 @@
       "fb_fre_very_high_snr": 0.654
     },
     "paper_url": "https://arxiv.org/abs/1904.00592",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03",
     "scores_std": {
       "snr": 0.1662,
@@ -8206,7 +8206,7 @@
       "fb_fre_very_high_snr": 2.2939
     },
     "paper_url": null,
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03",
     "scores_std": {
       "snr": 0.013,
@@ -8261,7 +8261,7 @@
       "fb_fre_very_high_snr": 0.775
     },
     "paper_url": "https://doi.org/10.1007/978-3-319-24574-4_28",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03",
     "scores_std": {
       "snr": 0.1723,
@@ -8316,7 +8316,7 @@
       "fb_fre_very_high_snr": 15.8
     },
     "paper_url": "https://arxiv.org/abs/1804.03999",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 0.8848,
@@ -8371,7 +8371,7 @@
       "fb_fre_very_high_snr": 18.53
     },
     "paper_url": "https://arxiv.org/abs/1804.03999",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 0.4611,
@@ -8426,7 +8426,7 @@
       "fb_fre_very_high_snr": 11.7
     },
     "paper_url": "https://doi.org/10.1109/TIP.2017.2662206",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 0.9794,
@@ -8481,7 +8481,7 @@
       "fb_fre_very_high_snr": 15.36
     },
     "paper_url": "https://doi.org/10.1190/geo2021-0206.1",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 0.4554,
@@ -8536,7 +8536,7 @@
       "fb_fre_very_high_snr": 15.99
     },
     "paper_url": "https://doi.org/10.1109/LGRS.2018.2802944",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 0.7141,
@@ -8591,7 +8591,7 @@
       "fb_fre_very_high_snr": 17.81
     },
     "paper_url": "https://doi.org/10.1109/LGRS.2018.2802944",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 0.5392,
@@ -8646,7 +8646,7 @@
       "fb_fre_very_high_snr": 16.42
     },
     "paper_url": "https://doi.org/10.1109/LGRS.2022.3168143",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 1.4618,
@@ -8701,7 +8701,7 @@
       "fb_fre_very_high_snr": 15.17
     },
     "paper_url": "https://doi.org/10.1007/978-3-319-24574-4_28",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 0.5761,
@@ -8756,7 +8756,7 @@
       "fb_fre_very_high_snr": 18.18
     },
     "paper_url": "https://doi.org/10.1007/978-3-319-24574-4_28",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 0.6398,
@@ -8802,7 +8802,7 @@
       "rc_norm": 7.033
     },
     "paper_url": "https://doi.org/10.1109/LGRS.2023.3248233",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "dice": 0.0003,
@@ -8839,7 +8839,7 @@
       "rc_norm": 3.512
     },
     "paper_url": "https://doi.org/10.1109/LGRS.2023.3248233",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "dice": 0.0001,
@@ -8876,7 +8876,7 @@
       "rc_norm": 5.247
     },
     "paper_url": "https://doi.org/10.1109/LGRS.2023.3248233",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "dice": 0.0,
@@ -8913,7 +8913,7 @@
       "rc_norm": 18.782
     },
     "paper_url": "https://doi.org/10.1109/LGRS.2023.3248233",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "dice": 0.0005,
@@ -8950,7 +8950,7 @@
       "rc_norm": 17.741
     },
     "paper_url": "https://doi.org/10.1109/TGRS.2024.3457521",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "dice": 0.0012,
@@ -8987,7 +8987,7 @@
       "rc_norm": 13.702
     },
     "paper_url": "https://doi.org/10.1109/TGRS.2024.3457521",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "dice": 0.0007,
@@ -9024,7 +9024,7 @@
       "rc_norm": 24.49
     },
     "paper_url": "https://doi.org/10.1109/TGRS.2024.3457521",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "dice": 0.0014,
@@ -9061,7 +9061,7 @@
       "rc_norm": 21.85
     },
     "paper_url": "https://doi.org/10.1109/TGRS.2024.3457521",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "dice": 0.0013,
@@ -9098,7 +9098,7 @@
       "rc_norm": 12.917
     },
     "paper_url": "https://arxiv.org/abs/1804.03999",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "dice": 0.0023,
@@ -9135,7 +9135,7 @@
       "rc_norm": 5.789
     },
     "paper_url": "https://arxiv.org/abs/1804.03999",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "dice": 0.0003,
@@ -9172,7 +9172,7 @@
       "rc_norm": 11.619
     },
     "paper_url": "https://arxiv.org/abs/1804.03999",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "dice": 0.0002,
@@ -9209,7 +9209,7 @@
       "rc_norm": 41.212
     },
     "paper_url": "https://arxiv.org/abs/1804.03999",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "dice": 0.0009,
@@ -9246,7 +9246,7 @@
       "rc_norm": 16.159
     },
     "paper_url": "https://doi.org/10.1109/LGRS.2018.2802944",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "dice": 0.0007,
@@ -9283,7 +9283,7 @@
       "rc_norm": 4.736
     },
     "paper_url": "https://doi.org/10.1109/LGRS.2018.2802944",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "dice": 0.0002,
@@ -9320,7 +9320,7 @@
       "rc_norm": 13.174
     },
     "paper_url": "https://doi.org/10.1109/LGRS.2018.2802944",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "dice": 0.0002,
@@ -9357,7 +9357,7 @@
       "rc_norm": 47.295
     },
     "paper_url": "https://doi.org/10.1109/LGRS.2018.2802944",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "dice": 0.001,
@@ -9394,7 +9394,7 @@
       "rc_norm": 14.176
     },
     "paper_url": "https://doi.org/10.1007/978-3-319-24574-4_28",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "dice": 0.0018,
@@ -9431,7 +9431,7 @@
       "rc_norm": 5.124
     },
     "paper_url": "https://doi.org/10.1007/978-3-319-24574-4_28",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "dice": 0.0004,
@@ -9468,7 +9468,7 @@
       "rc_norm": 11.696
     },
     "paper_url": "https://doi.org/10.1007/978-3-319-24574-4_28",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "dice": 0.0002,
@@ -9505,7 +9505,7 @@
       "rc_norm": 50.516
     },
     "paper_url": "https://doi.org/10.1007/978-3-319-24574-4_28",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "dice": 0.0032,
@@ -9551,7 +9551,7 @@
       "fb_fre_very_high_snr": 1.3
     },
     "paper_url": "https://arxiv.org/abs/1807.10165",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-04",
     "scores_std": {
       "snr": 0.1367,
@@ -9606,7 +9606,7 @@
       "fb_fre_very_high_snr": 3.26
     },
     "paper_url": "https://arxiv.org/abs/1807.10165",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-04",
     "scores_std": {
       "snr": 0.0416,
@@ -9661,7 +9661,7 @@
       "fb_fre_very_high_snr": 5.76
     },
     "paper_url": "https://arxiv.org/abs/1807.10165",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-04",
     "scores_std": {
       "snr": 0.0544,
@@ -9716,7 +9716,7 @@
       "fb_fre_very_high_snr": 1.23
     },
     "paper_url": "https://arxiv.org/abs/1807.10165",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-04",
     "scores_std": {
       "snr": 0.0946,
@@ -9771,7 +9771,7 @@
       "fb_fre_very_high_snr": 3.36
     },
     "paper_url": "https://arxiv.org/abs/1807.10165",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-04",
     "scores_std": {
       "snr": 0.0835,
@@ -9826,7 +9826,7 @@
       "fb_fre_very_high_snr": 5.68
     },
     "paper_url": "https://arxiv.org/abs/1807.10165",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-04",
     "scores_std": {
       "snr": 0.0714,
@@ -9881,7 +9881,7 @@
       "fb_fre_very_high_snr": 13.45
     },
     "paper_url": "https://doi.org/10.1109/LGRS.2021.3128511",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-11",
     "scores_std": {
       "snr": 0.0276,
@@ -9936,7 +9936,7 @@
       "fb_fre_very_high_snr": 10.51
     },
     "paper_url": "https://doi.org/10.1109/LGRS.2021.3128511",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-11",
     "scores_std": {
       "snr": 0.0423,
@@ -9991,7 +9991,7 @@
       "fb_fre_very_high_snr": 8.61
     },
     "paper_url": "https://doi.org/10.1109/LGRS.2021.3128511",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-11",
     "scores_std": {
       "snr": 0.0172,
@@ -10046,7 +10046,7 @@
       "fb_fre_very_high_snr": 14.52
     },
     "paper_url": "https://doi.org/10.1109/LGRS.2021.3128511",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-11",
     "scores_std": {
       "snr": 0.0557,
@@ -10101,7 +10101,7 @@
       "fb_fre_very_high_snr": 10.73
     },
     "paper_url": "https://doi.org/10.1109/LGRS.2021.3128511",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-11",
     "scores_std": {
       "snr": 0.1125,
@@ -10156,7 +10156,7 @@
       "fb_fre_very_high_snr": 10.79
     },
     "paper_url": "https://doi.org/10.1109/LGRS.2021.3128511",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-11",
     "scores_std": {
       "snr": 0.0227,
@@ -10211,7 +10211,7 @@
       "fb_fre_very_high_snr": 7.95
     },
     "paper_url": "https://doi.org/10.1109/LGRS.2021.3128511",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-11",
     "scores_std": {
       "snr": 0.0615,
@@ -10266,7 +10266,7 @@
       "fb_fre_very_high_snr": 12.83
     },
     "paper_url": "https://doi.org/10.1109/TGRS.2022.3152984",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-11",
     "scores_std": {
       "snr": 0.3167,
@@ -10321,7 +10321,7 @@
       "fb_fre_very_high_snr": 9.89
     },
     "paper_url": "https://doi.org/10.1109/TGRS.2022.3152984",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-11",
     "scores_std": {
       "snr": 0.0626,
@@ -10376,7 +10376,7 @@
       "fb_fre_very_high_snr": 8.24
     },
     "paper_url": "https://doi.org/10.1109/TGRS.2022.3152984",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-11",
     "scores_std": {
       "snr": 0.1265,
@@ -10431,7 +10431,7 @@
       "fb_fre_very_high_snr": 14.99
     },
     "paper_url": "https://doi.org/10.1109/TGRS.2022.3152984",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-11",
     "scores_std": {
       "snr": 0.2248,
@@ -10486,7 +10486,7 @@
       "fb_fre_very_high_snr": 10.49
     },
     "paper_url": "https://doi.org/10.1109/TGRS.2022.3152984",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-11",
     "scores_std": {
       "snr": 0.4554,
@@ -10541,7 +10541,7 @@
       "fb_fre_very_high_snr": 11.4
     },
     "paper_url": "https://doi.org/10.1109/TGRS.2022.3152984",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-11",
     "scores_std": {
       "snr": 0.0132,
@@ -10596,7 +10596,7 @@
       "fb_fre_very_high_snr": 8.23
     },
     "paper_url": "https://doi.org/10.1109/TGRS.2022.3152984",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-11",
     "scores_std": {
       "snr": 0.0941,
@@ -10651,7 +10651,7 @@
       "fb_fre_very_high_snr": 11.99
     },
     "paper_url": "https://doi.org/10.1109/TGRS.2022.3190292",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-11",
     "scores_std": {
       "snr": 0.0989,
@@ -10706,7 +10706,7 @@
       "fb_fre_very_high_snr": 9.61
     },
     "paper_url": "https://doi.org/10.1109/TGRS.2022.3190292",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-11",
     "scores_std": {
       "snr": 0.1293,
@@ -10761,7 +10761,7 @@
       "fb_fre_very_high_snr": 8.12
     },
     "paper_url": "https://doi.org/10.1109/TGRS.2022.3190292",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-11",
     "scores_std": {
       "snr": 0.0454,
@@ -10816,7 +10816,7 @@
       "fb_fre_very_high_snr": 13.65
     },
     "paper_url": "https://doi.org/10.1109/TGRS.2022.3190292",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-11",
     "scores_std": {
       "snr": 0.0996,
@@ -10871,7 +10871,7 @@
       "fb_fre_very_high_snr": 10.56
     },
     "paper_url": "https://doi.org/10.1109/TGRS.2022.3190292",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-11",
     "scores_std": {
       "snr": 0.0854,
@@ -10926,7 +10926,7 @@
       "fb_fre_very_high_snr": 9.58
     },
     "paper_url": "https://doi.org/10.1109/TGRS.2022.3190292",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-11",
     "scores_std": {
       "snr": 0.2308,
@@ -10981,7 +10981,7 @@
       "fb_fre_very_high_snr": 6.5
     },
     "paper_url": "https://doi.org/10.1109/TGRS.2022.3190292",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-11",
     "scores_std": {
       "snr": 0.7145,
@@ -11036,7 +11036,7 @@
       "fb_fre_very_high_snr": 10.49
     },
     "paper_url": "https://doi.org/10.1109/TGRS.2021.3068279",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-11",
     "scores_std": {
       "snr": 0.4189,
@@ -11091,7 +11091,7 @@
       "fb_fre_very_high_snr": 7.69
     },
     "paper_url": "https://doi.org/10.1109/TGRS.2021.3068279",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-11",
     "scores_std": {
       "snr": 2.0511,
@@ -11146,7 +11146,7 @@
       "fb_fre_very_high_snr": 6.46
     },
     "paper_url": "https://doi.org/10.1109/TGRS.2021.3068279",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-11",
     "scores_std": {
       "snr": 1.1712,
@@ -11201,7 +11201,7 @@
       "fb_fre_very_high_snr": 12.16
     },
     "paper_url": "https://doi.org/10.1109/TGRS.2021.3068279",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-11",
     "scores_std": {
       "snr": 0.0935,
@@ -11256,7 +11256,7 @@
       "fb_fre_very_high_snr": 8.25
     },
     "paper_url": "https://doi.org/10.1109/TGRS.2021.3068279",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-11",
     "scores_std": {
       "snr": 0.6685,
@@ -11311,7 +11311,7 @@
       "fb_fre_very_high_snr": 9.38
     },
     "paper_url": "https://doi.org/10.1109/TGRS.2021.3068279",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-11",
     "scores_std": {
       "snr": 0.2008,
@@ -11366,7 +11366,7 @@
       "fb_fre_very_high_snr": 7.3
     },
     "paper_url": "https://doi.org/10.1109/TGRS.2021.3068279",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-11",
     "scores_std": {
       "snr": 0.4342,
@@ -11421,7 +11421,7 @@
       "fb_fre_very_high_snr": -2.7287
     },
     "paper_url": "https://arxiv.org/abs/1807.10165",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 0.1077,
@@ -11476,7 +11476,7 @@
       "fb_fre_very_high_snr": -1.2685
     },
     "paper_url": "https://arxiv.org/abs/1807.10165",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 0.305,
@@ -11531,7 +11531,7 @@
       "fb_fre_very_high_snr": 0.6405
     },
     "paper_url": "https://arxiv.org/abs/1807.10165",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 0.1896,
@@ -11586,7 +11586,7 @@
       "fb_fre_very_high_snr": -2.5166
     },
     "paper_url": "https://arxiv.org/abs/1807.10165",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 0.1601,
@@ -11641,7 +11641,7 @@
       "fb_fre_very_high_snr": -1.2666
     },
     "paper_url": "https://arxiv.org/abs/1807.10165",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 0.2132,
@@ -11696,7 +11696,7 @@
       "fb_fre_very_high_snr": 0.6759
     },
     "paper_url": "https://arxiv.org/abs/1807.10165",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 0.1512,
@@ -12412,7 +12412,7 @@
       "fb_fre_very_high_snr": 7.08
     },
     "paper_url": "https://arxiv.org/abs/1804.03999",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-11",
     "scores_std": {
       "snr": 0.0783,
@@ -12871,7 +12871,7 @@
       "fb_fre_very_high_snr": 5.55
     },
     "paper_url": "https://doi.org/10.1109/TIP.2017.2662206",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-11",
     "scores_std": {
       "snr": 0.0528,
@@ -13534,7 +13534,7 @@
       "fb_fre_very_high_snr": 7.16
     },
     "paper_url": "https://doi.org/10.1109/LGRS.2018.2802944",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-11",
     "scores_std": {
       "snr": 0.0383,
@@ -14605,7 +14605,7 @@
       "fb_fre_very_high_snr": 6.97
     },
     "paper_url": "https://doi.org/10.1007/978-3-319-24574-4_28",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-11",
     "scores_std": {
       "snr": 0.0207,
@@ -15064,7 +15064,7 @@
       "fb_fre_very_high_snr": 2.15
     },
     "paper_url": "https://arxiv.org/abs/1804.03999",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-08-24",
     "scores_std": {
       "snr": 0.3149,
@@ -15115,7 +15115,7 @@
       "fb_fre_very_high_snr": 0.22
     },
     "paper_url": "https://arxiv.org/abs/1804.03999",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-08-24",
     "scores_std": {
       "snr": 0.8136,
@@ -15166,7 +15166,7 @@
       "fb_fre_very_high_snr": -1.37
     },
     "paper_url": "https://arxiv.org/abs/1804.03999",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-08-24",
     "scores_std": {
       "snr": 0.2424,
@@ -15217,7 +15217,7 @@
       "fb_fre_very_high_snr": 2.97
     },
     "paper_url": "https://arxiv.org/abs/1804.03999",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-08-24",
     "scores_std": {
       "snr": 0.5359,
@@ -15268,7 +15268,7 @@
       "fb_fre_very_high_snr": 0.13
     },
     "paper_url": "https://arxiv.org/abs/1804.03999",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-11",
     "scores_std": {
       "snr": 0.2119,
@@ -15319,7 +15319,7 @@
       "fb_fre_very_high_snr": 5.64
     },
     "paper_url": "https://arxiv.org/abs/1804.03999",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-08-24",
     "scores_std": {
       "snr": 0.3909,
@@ -15370,7 +15370,7 @@
       "fb_fre_very_high_snr": 4.91
     },
     "paper_url": "https://arxiv.org/abs/1804.03999",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-08-24",
     "scores_std": {
       "snr": 0.1277,
@@ -15421,7 +15421,7 @@
       "fb_fre_very_high_snr": 4.03
     },
     "paper_url": "https://arxiv.org/abs/1804.03999",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-08-24",
     "scores_std": {
       "snr": 0.3639,
@@ -15880,7 +15880,7 @@
       "fb_fre_very_high_snr": 4.02
     },
     "paper_url": "https://doi.org/10.1109/TIP.2017.2662206",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-08-24",
     "scores_std": {
       "snr": 0.1258,
@@ -15931,7 +15931,7 @@
       "fb_fre_very_high_snr": 2.12
     },
     "paper_url": "https://doi.org/10.1109/TIP.2017.2662206",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-08-24",
     "scores_std": {
       "snr": 0.1588,
@@ -15982,7 +15982,7 @@
       "fb_fre_very_high_snr": 0.45
     },
     "paper_url": "https://doi.org/10.1109/TIP.2017.2662206",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-08-24",
     "scores_std": {
       "snr": 0.2237,
@@ -16033,7 +16033,7 @@
       "fb_fre_very_high_snr": 2.72
     },
     "paper_url": "https://doi.org/10.1109/TIP.2017.2662206",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-08-24",
     "scores_std": {
       "snr": 0.2684,
@@ -16084,7 +16084,7 @@
       "fb_fre_very_high_snr": 0.47
     },
     "paper_url": "https://doi.org/10.1109/TIP.2017.2662206",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-11",
     "scores_std": {
       "snr": 0.2053,
@@ -16135,7 +16135,7 @@
       "fb_fre_very_high_snr": 10.28
     },
     "paper_url": "https://doi.org/10.1109/TIP.2017.2662206",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-08-24",
     "scores_std": {
       "snr": 0.1411,
@@ -16186,7 +16186,7 @@
       "fb_fre_very_high_snr": 8.68
     },
     "paper_url": "https://doi.org/10.1109/TIP.2017.2662206",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-08-24",
     "scores_std": {
       "snr": 0.1215,
@@ -16237,7 +16237,7 @@
       "fb_fre_very_high_snr": 7.69
     },
     "paper_url": "https://doi.org/10.1109/TIP.2017.2662206",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-08-24",
     "scores_std": {
       "snr": 0.0934,
@@ -16696,7 +16696,7 @@
       "fb_fre_very_high_snr": 0.71
     },
     "paper_url": "https://doi.org/10.1109/LGRS.2018.2802944",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-08-24",
     "scores_std": {
       "snr": 0.8571,
@@ -16747,7 +16747,7 @@
       "fb_fre_very_high_snr": -1.49
     },
     "paper_url": "https://doi.org/10.1109/LGRS.2018.2802944",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-08-24",
     "scores_std": {
       "snr": 0.5405,
@@ -16798,7 +16798,7 @@
       "fb_fre_very_high_snr": -2.32
     },
     "paper_url": "https://doi.org/10.1109/LGRS.2018.2802944",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-08-24",
     "scores_std": {
       "snr": 0.6496,
@@ -16849,7 +16849,7 @@
       "fb_fre_very_high_snr": 0.58
     },
     "paper_url": "https://doi.org/10.1109/LGRS.2018.2802944",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-08-24",
     "scores_std": {
       "snr": 0.1755,
@@ -16900,7 +16900,7 @@
       "fb_fre_very_high_snr": -1.35
     },
     "paper_url": "https://doi.org/10.1109/LGRS.2018.2802944",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-11",
     "scores_std": {
       "snr": 0.1239,
@@ -16951,7 +16951,7 @@
       "fb_fre_very_high_snr": 4.8
     },
     "paper_url": "https://doi.org/10.1109/LGRS.2018.2802944",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-08-24",
     "scores_std": {
       "snr": 0.4608,
@@ -17002,7 +17002,7 @@
       "fb_fre_very_high_snr": 3.79
     },
     "paper_url": "https://doi.org/10.1109/LGRS.2018.2802944",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-08-24",
     "scores_std": {
       "snr": 1.0049,
@@ -17053,7 +17053,7 @@
       "fb_fre_very_high_snr": 3.0
     },
     "paper_url": "https://doi.org/10.1109/LGRS.2018.2802944",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-08-24",
     "scores_std": {
       "snr": 0.5217,
@@ -17920,7 +17920,7 @@
       "fb_fre_very_high_snr": 2.47
     },
     "paper_url": "https://doi.org/10.1007/978-3-319-24574-4_28",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-08-24",
     "scores_std": {
       "snr": 0.9879,
@@ -17971,7 +17971,7 @@
       "fb_fre_very_high_snr": 0.62
     },
     "paper_url": "https://doi.org/10.1007/978-3-319-24574-4_28",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-08-24",
     "scores_std": {
       "snr": 0.3144,
@@ -18022,7 +18022,7 @@
       "fb_fre_very_high_snr": -0.95
     },
     "paper_url": "https://doi.org/10.1007/978-3-319-24574-4_28",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-08-24",
     "scores_std": {
       "snr": 0.1916,
@@ -18073,7 +18073,7 @@
       "fb_fre_very_high_snr": 2.33
     },
     "paper_url": "https://doi.org/10.1007/978-3-319-24574-4_28",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-08-24",
     "scores_std": {
       "snr": 0.2209,
@@ -18124,7 +18124,7 @@
       "fb_fre_very_high_snr": -0.12
     },
     "paper_url": "https://doi.org/10.1007/978-3-319-24574-4_28",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-11",
     "scores_std": {
       "snr": 0.2045,
@@ -18175,7 +18175,7 @@
       "fb_fre_very_high_snr": 4.96
     },
     "paper_url": "https://doi.org/10.1007/978-3-319-24574-4_28",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-08-24",
     "scores_std": {
       "snr": 0.0928,
@@ -18226,7 +18226,7 @@
       "fb_fre_very_high_snr": 4.39
     },
     "paper_url": "https://doi.org/10.1007/978-3-319-24574-4_28",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-08-24",
     "scores_std": {
       "snr": 0.0785,
@@ -18277,7 +18277,7 @@
       "fb_fre_very_high_snr": 3.77
     },
     "paper_url": "https://doi.org/10.1007/978-3-319-24574-4_28",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-08-24",
     "scores_std": {
       "snr": 0.2444,
@@ -18354,7 +18354,7 @@
       "fb_fre_very_high_snr": 0.5725
     },
     "paper_url": null,
-    "code_url": null,
+    "code_url": "https://huggingface.co/SPBench/SPBench-Model",
     "date_added": "2026-09-03"
   },
   {
@@ -18409,7 +18409,7 @@
       "fb_fre_very_high_snr": 0.182
     },
     "paper_url": null,
-    "code_url": null,
+    "code_url": "https://huggingface.co/SPBench/SPBench-Model",
     "date_added": "2026-09-03"
   },
   {
@@ -18464,7 +18464,7 @@
       "fb_fre_very_high_snr": 0.5491
     },
     "paper_url": null,
-    "code_url": null,
+    "code_url": "https://huggingface.co/SPBench/SPBench-Model",
     "date_added": "2026-09-03"
   },
   {
@@ -18519,7 +18519,7 @@
       "fb_fre_very_high_snr": 0.3712
     },
     "paper_url": null,
-    "code_url": null,
+    "code_url": "https://huggingface.co/SPBench/SPBench-Model",
     "date_added": "2026-09-03"
   },
   {
@@ -18574,7 +18574,7 @@
       "fb_fre_very_high_snr": 0.7348
     },
     "paper_url": null,
-    "code_url": null,
+    "code_url": "https://huggingface.co/SPBench/SPBench-Model",
     "date_added": "2026-09-03"
   },
   {
@@ -18629,7 +18629,7 @@
       "fb_fre_very_high_snr": 0.0277
     },
     "paper_url": null,
-    "code_url": null,
+    "code_url": "https://huggingface.co/SPBench/SPBench-Model",
     "date_added": "2026-09-03"
   },
   {
@@ -18684,7 +18684,7 @@
       "fb_fre_very_high_snr": 0.4505
     },
     "paper_url": null,
-    "code_url": null,
+    "code_url": "https://huggingface.co/SPBench/SPBench-Model",
     "date_added": "2026-09-03"
   },
   {
@@ -18739,7 +18739,7 @@
       "fb_fre_very_high_snr": 0.8977
     },
     "paper_url": null,
-    "code_url": null,
+    "code_url": "https://huggingface.co/SPBench/SPBench-Model",
     "date_added": "2026-09-03"
   },
   {
@@ -18794,7 +18794,7 @@
       "fb_fre_very_high_snr": 0.2481
     },
     "paper_url": null,
-    "code_url": null,
+    "code_url": "https://huggingface.co/SPBench/SPBench-Model",
     "date_added": "2026-09-03"
   },
   {
@@ -18825,7 +18825,7 @@
       "fb_fre_very_high_snr": -5.2139
     },
     "paper_url": "https://doi.org/10.1007/978-3-319-24574-4_28",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 0.0034,
@@ -18880,7 +18880,7 @@
       "fb_fre_very_high_snr": -7.4367
     },
     "paper_url": "https://ieeexplore.ieee.org/document/7839189",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 0.0035,
@@ -18935,7 +18935,7 @@
       "fb_fre_very_high_snr": -9.1227
     },
     "paper_url": "https://arxiv.org/abs/1904.00592",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 0.001,
@@ -18990,7 +18990,7 @@
       "fb_fre_very_high_snr": -5.768
     },
     "paper_url": "https://openreview.net/forum?id=Skft7cijM",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 0.0043,
@@ -19045,7 +19045,7 @@
       "fb_fre_very_high_snr": -11.4459
     },
     "paper_url": "https://proceedings.neurips.cc/paper/2020/hash/4c5bcfec8584af0d967f1ab10179ca4b-Abstract.html",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 0.1578,
@@ -19100,7 +19100,7 @@
       "fb_fre_very_high_snr": 0.5184
     },
     "paper_url": "https://doi.org/10.1016/j.cageo.2023.105510",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 0.0049,
@@ -19155,7 +19155,7 @@
       "fb_fre_very_high_snr": -3.921
     },
     "paper_url": null,
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 0.4837,
@@ -19210,7 +19210,7 @@
       "fb_fre_very_high_snr": -4.2297
     },
     "paper_url": "https://doi.org/10.1007/978-3-319-24574-4_28",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 0.0048,
@@ -19265,7 +19265,7 @@
       "fb_fre_very_high_snr": -4.6522
     },
     "paper_url": "https://ieeexplore.ieee.org/document/7839189",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 0.0034,
@@ -19320,7 +19320,7 @@
       "fb_fre_very_high_snr": -8.4668
     },
     "paper_url": "https://arxiv.org/abs/1904.00592",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 0.0008,
@@ -19375,7 +19375,7 @@
       "fb_fre_very_high_snr": -5.8902
     },
     "paper_url": "https://openreview.net/forum?id=Skft7cijM",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 0.0024,
@@ -19430,7 +19430,7 @@
       "fb_fre_very_high_snr": -12.2105
     },
     "paper_url": "https://proceedings.neurips.cc/paper/2020/hash/4c5bcfec8584af0d967f1ab10179ca4b-Abstract.html",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 0.1258,
@@ -19485,7 +19485,7 @@
       "fb_fre_very_high_snr": 1.133
     },
     "paper_url": "https://doi.org/10.1016/j.cageo.2023.105510",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 0.0025,
@@ -19540,7 +19540,7 @@
       "fb_fre_very_high_snr": -3.0466
     },
     "paper_url": null,
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 0.3601,
@@ -19595,7 +19595,7 @@
       "fb_fre_very_high_snr": -3.5443
     },
     "paper_url": "https://doi.org/10.1007/978-3-319-24574-4_28",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 0.0046,
@@ -19650,7 +19650,7 @@
       "fb_fre_very_high_snr": -2.1151
     },
     "paper_url": "https://ieeexplore.ieee.org/document/7839189",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 0.0044,
@@ -19705,7 +19705,7 @@
       "fb_fre_very_high_snr": -8.4605
     },
     "paper_url": "https://arxiv.org/abs/1904.00592",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 0.001,
@@ -19760,7 +19760,7 @@
       "fb_fre_very_high_snr": -5.407
     },
     "paper_url": "https://openreview.net/forum?id=Skft7cijM",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 0.0054,
@@ -19815,7 +19815,7 @@
       "fb_fre_very_high_snr": -12.2218
     },
     "paper_url": "https://proceedings.neurips.cc/paper/2020/hash/4c5bcfec8584af0d967f1ab10179ca4b-Abstract.html",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 0.1814,
@@ -19870,7 +19870,7 @@
       "fb_fre_very_high_snr": 2.2362
     },
     "paper_url": "https://doi.org/10.1016/j.cageo.2023.105510",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 0.0044,
@@ -19925,7 +19925,7 @@
       "fb_fre_very_high_snr": -2.9786
     },
     "paper_url": null,
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 0.7649,
@@ -19980,7 +19980,7 @@
       "fb_fre_very_high_snr": -5.2019
     },
     "paper_url": "https://doi.org/10.1007/978-3-319-24574-4_28",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 0.0031,
@@ -20035,7 +20035,7 @@
       "fb_fre_very_high_snr": -7.034
     },
     "paper_url": "https://ieeexplore.ieee.org/document/7839189",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 0.0032,
@@ -20090,7 +20090,7 @@
       "fb_fre_very_high_snr": -9.0763
     },
     "paper_url": "https://arxiv.org/abs/1904.00592",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 0.0008,
@@ -20145,7 +20145,7 @@
       "fb_fre_very_high_snr": -5.8739
     },
     "paper_url": "https://openreview.net/forum?id=Skft7cijM",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 0.005,
@@ -20200,7 +20200,7 @@
       "fb_fre_very_high_snr": -11.9225
     },
     "paper_url": "https://proceedings.neurips.cc/paper/2020/hash/4c5bcfec8584af0d967f1ab10179ca4b-Abstract.html",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 0.2412,
@@ -20255,7 +20255,7 @@
       "fb_fre_very_high_snr": 0.3834
     },
     "paper_url": "https://doi.org/10.1016/j.cageo.2023.105510",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 0.007,
@@ -20310,7 +20310,7 @@
       "fb_fre_very_high_snr": -3.8451
     },
     "paper_url": null,
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 0.5838,
@@ -20365,7 +20365,7 @@
       "fb_fre_very_high_snr": -4.4417
     },
     "paper_url": "https://doi.org/10.1007/978-3-319-24574-4_28",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 0.0045,
@@ -20420,7 +20420,7 @@
       "fb_fre_very_high_snr": -4.6601
     },
     "paper_url": "https://ieeexplore.ieee.org/document/7839189",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 0.0031,
@@ -20475,7 +20475,7 @@
       "fb_fre_very_high_snr": -8.6346
     },
     "paper_url": "https://arxiv.org/abs/1904.00592",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 0.0017,
@@ -20530,7 +20530,7 @@
       "fb_fre_very_high_snr": -5.607
     },
     "paper_url": "https://openreview.net/forum?id=Skft7cijM",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 0.0062,
@@ -20585,7 +20585,7 @@
       "fb_fre_very_high_snr": -12.5098
     },
     "paper_url": "https://proceedings.neurips.cc/paper/2020/hash/4c5bcfec8584af0d967f1ab10179ca4b-Abstract.html",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 0.6239,
@@ -20640,7 +20640,7 @@
       "fb_fre_very_high_snr": 1.1562
     },
     "paper_url": "https://doi.org/10.1016/j.cageo.2023.105510",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 0.0042,
@@ -20695,7 +20695,7 @@
       "fb_fre_very_high_snr": -2.9682
     },
     "paper_url": null,
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 0.408,
@@ -20750,7 +20750,7 @@
       "fb_fre_very_high_snr": -3.6236
     },
     "paper_url": "https://doi.org/10.1007/978-3-319-24574-4_28",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 0.0009,
@@ -20805,7 +20805,7 @@
       "fb_fre_very_high_snr": -2.3057
     },
     "paper_url": "https://ieeexplore.ieee.org/document/7839189",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 0.002,
@@ -20860,7 +20860,7 @@
       "fb_fre_very_high_snr": -8.5181
     },
     "paper_url": "https://arxiv.org/abs/1904.00592",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 0.0028,
@@ -20915,7 +20915,7 @@
       "fb_fre_very_high_snr": -4.9281
     },
     "paper_url": "https://openreview.net/forum?id=Skft7cijM",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 0.0026,
@@ -20970,7 +20970,7 @@
       "fb_fre_very_high_snr": -12.1174
     },
     "paper_url": "https://proceedings.neurips.cc/paper/2020/hash/4c5bcfec8584af0d967f1ab10179ca4b-Abstract.html",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 0.1844,
@@ -21025,7 +21025,7 @@
       "fb_fre_very_high_snr": 2.2525
     },
     "paper_url": "https://doi.org/10.1016/j.cageo.2023.105510",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 0.0037,
@@ -21080,7 +21080,7 @@
       "fb_fre_very_high_snr": -3.2304
     },
     "paper_url": null,
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10",
     "scores_std": {
       "snr": 0.7596,
@@ -21135,7 +21135,7 @@
       "fb_fre_very_high_snr": 10.0991
     },
     "paper_url": "https://doi.org/10.1007/978-3-319-24574-4_28",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03",
     "scores_std": {
       "snr": 0.2431,
@@ -21190,7 +21190,7 @@
       "fb_fre_very_high_snr": 10.5996
     },
     "paper_url": null,
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03",
     "scores_std": {
       "snr": 0.046,
@@ -21245,7 +21245,7 @@
       "fb_fre_very_high_snr": 10.761
     },
     "paper_url": "https://arxiv.org/abs/1904.00592",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03",
     "scores_std": {
       "snr": 0.0794,
@@ -21300,7 +21300,7 @@
       "fb_fre_very_high_snr": 9.5456
     },
     "paper_url": "https://openreview.net/forum?id=Skft7cijM",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03",
     "scores_std": {
       "snr": 0.1395,
@@ -21355,7 +21355,7 @@
       "fb_fre_very_high_snr": 13.1262
     },
     "paper_url": "https://doi.org/10.1007/978-3-319-24574-4_28",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03",
     "scores_std": {
       "snr": 0.6392,
@@ -21410,7 +21410,7 @@
       "fb_fre_very_high_snr": 13.2565
     },
     "paper_url": "https://doi.org/10.1016/j.cageo.2024.105595",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03",
     "scores_std": {
       "snr": 0.0988,
@@ -21465,7 +21465,7 @@
       "fb_fre_very_high_snr": 9.0312
     },
     "paper_url": "https://doi.org/10.1007/978-3-319-24574-4_28",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03",
     "scores_std": {
       "snr": 0.0285,
@@ -21520,7 +21520,7 @@
       "fb_fre_very_high_snr": 9.4342
     },
     "paper_url": null,
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03",
     "scores_std": {
       "snr": 0.0329,
@@ -21575,7 +21575,7 @@
       "fb_fre_very_high_snr": 9.6056
     },
     "paper_url": "https://arxiv.org/abs/1904.00592",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03",
     "scores_std": {
       "snr": 0.0999,
@@ -21630,7 +21630,7 @@
       "fb_fre_very_high_snr": 8.5124
     },
     "paper_url": "https://openreview.net/forum?id=Skft7cijM",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03",
     "scores_std": {
       "snr": 0.1919,
@@ -21685,7 +21685,7 @@
       "fb_fre_very_high_snr": 11.8871
     },
     "paper_url": "https://doi.org/10.1007/978-3-319-24574-4_28",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03",
     "scores_std": {
       "snr": 0.7292,
@@ -21740,7 +21740,7 @@
       "fb_fre_very_high_snr": 12.129
     },
     "paper_url": "https://doi.org/10.1016/j.cageo.2024.105595",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03",
     "scores_std": {
       "snr": 0.2697,
@@ -21795,7 +21795,7 @@
       "fb_fre_very_high_snr": 12.05
     },
     "paper_url": "https://doi.org/10.1007/978-3-319-24574-4_28",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03",
     "scores_std": {
       "snr": 0.2113,
@@ -21850,7 +21850,7 @@
       "fb_fre_very_high_snr": 13.8956
     },
     "paper_url": null,
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03",
     "scores_std": {
       "snr": 0.0326,
@@ -21905,7 +21905,7 @@
       "fb_fre_very_high_snr": 13.0636
     },
     "paper_url": "https://arxiv.org/abs/1904.00592",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03",
     "scores_std": {
       "snr": 0.1634,
@@ -21960,7 +21960,7 @@
       "fb_fre_very_high_snr": 10.994
     },
     "paper_url": "https://openreview.net/forum?id=Skft7cijM",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03",
     "scores_std": {
       "snr": 0.1592,
@@ -22015,7 +22015,7 @@
       "fb_fre_very_high_snr": 15.5292
     },
     "paper_url": "https://doi.org/10.1007/978-3-319-24574-4_28",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03",
     "scores_std": {
       "snr": 0.1804,
@@ -22070,7 +22070,7 @@
       "fb_fre_very_high_snr": 15.9347
     },
     "paper_url": "https://doi.org/10.1016/j.cageo.2024.105595",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03",
     "scores_std": {
       "snr": 0.1826,
@@ -22149,7 +22149,7 @@
       "fb_fre_very_high_snr": 0.34
     },
     "paper_url": "https://doi.org/10.1007/978-3-319-24574-4_28",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-08-26"
   },
   {
@@ -22204,7 +22204,7 @@
       "fb_fre_very_high_snr": 0.21
     },
     "paper_url": "https://doi.org/10.1007/978-3-319-24574-4_28",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-08-26"
   },
   {
@@ -22259,7 +22259,7 @@
       "fb_fre_very_high_snr": 0.89
     },
     "paper_url": "https://doi.org/10.1109/LGRS.2018.2802944",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-08-26"
   },
   {
@@ -22314,7 +22314,7 @@
       "fb_fre_very_high_snr": 0.29
     },
     "paper_url": "https://doi.org/10.1109/LGRS.2018.2802944",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-08-26"
   },
   {
@@ -22369,7 +22369,7 @@
       "fb_fre_very_high_snr": 0.34
     },
     "paper_url": null,
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-08-26"
   },
   {
@@ -22424,7 +22424,7 @@
       "fb_fre_very_high_snr": 0.33
     },
     "paper_url": "https://arxiv.org/abs/1804.03999",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-08-26"
   },
   {
@@ -22479,7 +22479,7 @@
       "fb_fre_very_high_snr": 0.13
     },
     "paper_url": "https://arxiv.org/abs/1804.03999",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-08-26"
   },
   {
@@ -22534,7 +22534,7 @@
       "fb_fre_very_high_snr": 0.15
     },
     "paper_url": "https://doi.org/10.1190/geo2023-0150.1",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-08-26"
   },
   {
@@ -22589,7 +22589,7 @@
       "fb_fre_very_high_snr": 1.21
     },
     "paper_url": "https://doi.org/10.1190/geo2020-0691.1",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-08-26"
   },
   {
@@ -22644,7 +22644,7 @@
       "fb_fre_very_high_snr": 0.67
     },
     "paper_url": "https://doi.org/10.1190/geo2019-0414.1",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-08-26"
   },
   {
@@ -22699,7 +22699,7 @@
       "fb_fre_very_high_snr": 0.3154
     },
     "paper_url": "https://proceedings.neurips.cc/paper/2020/hash/4c5bcfec8584af0d967f1ab10179ca4b-Abstract.html",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03"
   },
   {
@@ -22754,7 +22754,7 @@
       "fb_fre_very_high_snr": 0.1656
     },
     "paper_url": "https://doi.org/10.1016/j.cageo.2023.105510",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03"
   },
   {
@@ -22809,7 +22809,7 @@
       "fb_fre_very_high_snr": 0.0
     },
     "paper_url": "https://doi.org/10.1190/geo2021-0621.1",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03"
   },
   {
@@ -22864,7 +22864,7 @@
       "fb_fre_very_high_snr": 0.1323
     },
     "paper_url": null,
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03"
   },
   {
@@ -22919,7 +22919,7 @@
       "fb_fre_very_high_snr": 0.443
     },
     "paper_url": "https://proceedings.neurips.cc/paper/2020/hash/4c5bcfec8584af0d967f1ab10179ca4b-Abstract.html",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03"
   },
   {
@@ -22974,7 +22974,7 @@
       "fb_fre_very_high_snr": 0.1546
     },
     "paper_url": "https://doi.org/10.1016/j.cageo.2023.105510",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03"
   },
   {
@@ -23029,7 +23029,7 @@
       "fb_fre_very_high_snr": 0.0
     },
     "paper_url": "https://doi.org/10.1190/geo2021-0621.1",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03"
   },
   {
@@ -23084,7 +23084,7 @@
       "fb_fre_very_high_snr": 0.1046
     },
     "paper_url": null,
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03"
   },
   {
@@ -23139,7 +23139,7 @@
       "fb_fre_very_high_snr": 0.5341
     },
     "paper_url": "https://proceedings.neurips.cc/paper/2020/hash/4c5bcfec8584af0d967f1ab10179ca4b-Abstract.html",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03"
   },
   {
@@ -23194,7 +23194,7 @@
       "fb_fre_very_high_snr": 0.2759
     },
     "paper_url": "https://doi.org/10.1016/j.cageo.2023.105510",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03"
   },
   {
@@ -23249,7 +23249,7 @@
       "fb_fre_very_high_snr": 0.0
     },
     "paper_url": "https://doi.org/10.1190/geo2021-0621.1",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03"
   },
   {
@@ -23304,7 +23304,7 @@
       "fb_fre_very_high_snr": 0.1875
     },
     "paper_url": null,
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03"
   },
   {
@@ -23359,7 +23359,7 @@
       "fb_fre_very_high_snr": 0.0
     },
     "paper_url": "https://doi.org/10.1190/geo2021-0621.1",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03"
   },
   {
@@ -23414,7 +23414,7 @@
       "fb_fre_very_high_snr": 0.026
     },
     "paper_url": "https://doi.org/10.1007/978-3-319-24574-4_28",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03"
   },
   {
@@ -23469,7 +23469,7 @@
       "fb_fre_very_high_snr": 0.0584
     },
     "paper_url": "https://doi.org/10.1007/978-3-319-24574-4_28",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03"
   },
   {
@@ -23524,7 +23524,7 @@
       "fb_fre_very_high_snr": 0.0387
     },
     "paper_url": "https://doi.org/10.1007/978-3-319-24574-4_28",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03"
   },
   {
@@ -23579,7 +23579,7 @@
       "fb_fre_very_high_snr": 0.0603
     },
     "paper_url": "https://doi.org/10.1007/978-3-319-24574-4_28",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03"
   },
   {
@@ -23634,7 +23634,7 @@
       "fb_fre_very_high_snr": 0.1714
     },
     "paper_url": "https://doi.org/10.1007/978-3-319-24574-4_28",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03"
   },
   {
@@ -23689,7 +23689,7 @@
       "fb_fre_very_high_snr": 0.0175
     },
     "paper_url": "https://doi.org/10.1007/978-3-319-24574-4_28",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03"
   },
   {
@@ -23744,7 +23744,7 @@
       "fb_fre_very_high_snr": 0.1
     },
     "paper_url": "https://doi.org/10.1109/LGRS.2021.3128511",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03"
   },
   {
@@ -23799,7 +23799,7 @@
       "fb_fre_very_high_snr": 0.24
     },
     "paper_url": "https://doi.org/10.1109/LGRS.2021.3128511",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03"
   },
   {
@@ -23854,7 +23854,7 @@
       "fb_fre_very_high_snr": 0.16
     },
     "paper_url": "https://doi.org/10.1109/LGRS.2021.3128511",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03"
   },
   {
@@ -23909,7 +23909,7 @@
       "fb_fre_very_high_snr": 0.11
     },
     "paper_url": "https://doi.org/10.1109/LGRS.2021.3128511",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03"
   },
   {
@@ -23964,7 +23964,7 @@
       "fb_fre_very_high_snr": 0.17
     },
     "paper_url": "https://doi.org/10.1109/LGRS.2021.3128511",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03"
   },
   {
@@ -24019,7 +24019,7 @@
       "fb_fre_very_high_snr": 0.18
     },
     "paper_url": "https://doi.org/10.1109/LGRS.2021.3128511",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03"
   },
   {
@@ -24074,7 +24074,7 @@
       "fb_fre_very_high_snr": 0.16
     },
     "paper_url": "https://doi.org/10.1109/LGRS.2021.3128511",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03"
   },
   {
@@ -24129,7 +24129,7 @@
       "fb_fre_very_high_snr": 0.22
     },
     "paper_url": "https://doi.org/10.1109/TGRS.2022.3152984",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03"
   },
   {
@@ -24184,7 +24184,7 @@
       "fb_fre_very_high_snr": 0.13
     },
     "paper_url": "https://doi.org/10.1109/TGRS.2022.3152984",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03"
   },
   {
@@ -24239,7 +24239,7 @@
       "fb_fre_very_high_snr": 0.16
     },
     "paper_url": "https://doi.org/10.1109/TGRS.2022.3152984",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03"
   },
   {
@@ -24294,7 +24294,7 @@
       "fb_fre_very_high_snr": 0.23
     },
     "paper_url": "https://doi.org/10.1109/TGRS.2022.3152984",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03"
   },
   {
@@ -24349,7 +24349,7 @@
       "fb_fre_very_high_snr": 0.29
     },
     "paper_url": "https://doi.org/10.1109/TGRS.2022.3152984",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03"
   },
   {
@@ -24404,7 +24404,7 @@
       "fb_fre_very_high_snr": 0.26
     },
     "paper_url": "https://doi.org/10.1109/TGRS.2022.3152984",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03"
   },
   {
@@ -24459,7 +24459,7 @@
       "fb_fre_very_high_snr": 0.17
     },
     "paper_url": "https://doi.org/10.1109/TGRS.2022.3152984",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03"
   },
   {
@@ -24514,7 +24514,7 @@
       "fb_fre_very_high_snr": 0.45
     },
     "paper_url": "https://doi.org/10.1109/TGRS.2022.3190292",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03"
   },
   {
@@ -24569,7 +24569,7 @@
       "fb_fre_very_high_snr": 0.28
     },
     "paper_url": "https://doi.org/10.1109/TGRS.2022.3190292",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03"
   },
   {
@@ -24624,7 +24624,7 @@
       "fb_fre_very_high_snr": 0.31
     },
     "paper_url": "https://doi.org/10.1109/TGRS.2022.3190292",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03"
   },
   {
@@ -24679,7 +24679,7 @@
       "fb_fre_very_high_snr": 0.37
     },
     "paper_url": "https://doi.org/10.1109/TGRS.2022.3190292",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03"
   },
   {
@@ -24734,7 +24734,7 @@
       "fb_fre_very_high_snr": 0.24
     },
     "paper_url": "https://doi.org/10.1109/TGRS.2022.3190292",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03"
   },
   {
@@ -24789,7 +24789,7 @@
       "fb_fre_very_high_snr": 0.26
     },
     "paper_url": "https://doi.org/10.1109/TGRS.2022.3190292",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03"
   },
   {
@@ -24844,7 +24844,7 @@
       "fb_fre_very_high_snr": 0.23
     },
     "paper_url": "https://doi.org/10.1109/TGRS.2022.3190292",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03"
   },
   {
@@ -24899,7 +24899,7 @@
       "fb_fre_very_high_snr": 1.17
     },
     "paper_url": "https://doi.org/10.1109/TGRS.2021.3068279",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03"
   },
   {
@@ -24954,7 +24954,7 @@
       "fb_fre_very_high_snr": 1.33
     },
     "paper_url": "https://doi.org/10.1109/TGRS.2021.3068279",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03"
   },
   {
@@ -25009,7 +25009,7 @@
       "fb_fre_very_high_snr": 1.36
     },
     "paper_url": "https://doi.org/10.1109/TGRS.2021.3068279",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03"
   },
   {
@@ -25064,7 +25064,7 @@
       "fb_fre_very_high_snr": 0.49
     },
     "paper_url": "https://doi.org/10.1109/TGRS.2021.3068279",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03"
   },
   {
@@ -25119,7 +25119,7 @@
       "fb_fre_very_high_snr": 0.19
     },
     "paper_url": "https://doi.org/10.1109/TGRS.2021.3068279",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03"
   },
   {
@@ -25174,7 +25174,7 @@
       "fb_fre_very_high_snr": 0.56
     },
     "paper_url": "https://doi.org/10.1109/TGRS.2021.3068279",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03"
   },
   {
@@ -25229,7 +25229,7 @@
       "fb_fre_very_high_snr": 1.22
     },
     "paper_url": "https://doi.org/10.1109/TGRS.2021.3068279",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-03"
   },
   {
@@ -25284,7 +25284,7 @@
       "fb_fre_very_high_snr": 0.0091
     },
     "paper_url": "https://doi.org/10.1007/978-3-319-24574-4_28",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10"
   },
   {
@@ -25339,7 +25339,7 @@
       "fb_fre_very_high_snr": 0.0079
     },
     "paper_url": "https://doi.org/10.1190/geo2021-0621.1",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10"
   },
   {
@@ -25394,7 +25394,7 @@
       "fb_fre_very_high_snr": 0.004
     },
     "paper_url": "https://doi.org/10.1007/978-3-319-24574-4_28",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10"
   },
   {
@@ -25449,7 +25449,7 @@
       "fb_fre_very_high_snr": 0.0078
     },
     "paper_url": "https://doi.org/10.1190/geo2021-0621.1",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10"
   },
   {
@@ -25504,7 +25504,7 @@
       "fb_fre_very_high_snr": 0.005
     },
     "paper_url": "https://doi.org/10.1007/978-3-319-24574-4_28",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10"
   },
   {
@@ -25559,7 +25559,7 @@
       "fb_fre_very_high_snr": 0.0037
     },
     "paper_url": "https://doi.org/10.1190/geo2021-0621.1",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10"
   },
   {
@@ -25614,7 +25614,7 @@
       "fb_fre_very_high_snr": 0.0078
     },
     "paper_url": "https://doi.org/10.1007/978-3-319-24574-4_28",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10"
   },
   {
@@ -25669,7 +25669,7 @@
       "fb_fre_very_high_snr": 0.0122
     },
     "paper_url": "https://doi.org/10.1190/geo2021-0621.1",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10"
   },
   {
@@ -25724,7 +25724,7 @@
       "fb_fre_very_high_snr": 0.001
     },
     "paper_url": "https://doi.org/10.1007/978-3-319-24574-4_28",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10"
   },
   {
@@ -25779,7 +25779,7 @@
       "fb_fre_very_high_snr": 0.0029
     },
     "paper_url": "https://doi.org/10.1190/geo2021-0621.1",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10"
   },
   {
@@ -25834,7 +25834,7 @@
       "fb_fre_very_high_snr": 0.0096
     },
     "paper_url": "https://doi.org/10.1007/978-3-319-24574-4_28",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10"
   },
   {
@@ -25889,7 +25889,7 @@
       "fb_fre_very_high_snr": 0.0038
     },
     "paper_url": "https://doi.org/10.1190/geo2021-0621.1",
-    "code_url": null,
+    "code_url": "https://github.com/SeismicProcessingBenchmark/SPBench-Code",
     "date_added": "2026-09-10"
   }
 ]
