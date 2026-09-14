@@ -38,7 +38,7 @@ export default function OverviewPage({ data }: Props) {
             <a className="btn btn-primary btn-icon" href="https://github.com/SeismicProcessingBenchmark/SPBench-Code" target="_blank" rel="noopener noreferrer">
               <span aria-hidden="true">💻</span> {t.overview.codeLink}
             </a>
-            <a className="btn btn-icon" href="https://huggingface.co/SPBench/SPBench-Model" target="_blank" rel="noopener noreferrer">
+            <a className="btn btn-icon" href="https://huggingface.co/SPBench" target="_blank" rel="noopener noreferrer">
               <span aria-hidden="true">🤗</span> {t.overview.modelLink}
             </a>
           </div>
